@@ -1,0 +1,15 @@
+STUDIO BLUE GREEN SW 0047 — REAL EXTERIOR PHOTO COLLECTION
+
+Open studio-blue-green-exterior-photos.html with the photos folder beside it.
+The separate studio-blue-green-portable-gallery.html embeds all photos for offline browsing in one file.
+
+28 main photos: 2 builder-identified body views, 18 secondary siding attributions, and 8 door/entry photos (6 with primary evidence, 2 secondary).
+2 additional Bungalow 404 photos have conflicting Studio Blue Green / Outerspace claims and are kept separately.
+30 photos total across 9 source groups. The New siding views filter shows 10 added photographs of two already represented houses. The All siding/body filter shows 20 photos. Photo counts are not house counts.
+
+Read each set's evidence. The Old Drake builder names SW 0047, but the pictures and the stated trim palette do not clearly agree; the gallery preserves this discrepancy. The Bungalow 404 sources conflict explicitly. Photos with only a secondary publisher's paint label are not promoted to primary confirmation. The new original and listing views are visually matched to the earlier documented houses, but their source pages do not independently name the paint or verify that it was never repainted.
+
+All retained images were visually inspected. No photos were recolored or generated. Original image bytes and watermarks remain unchanged. sources.json records original URLs, source pages, credits, evidence and SHA-256 checksums. Known duplicate compositions and reposts are counted once.
+
+Research date: October 9, 2026. A thorough public-web search, not a guarantee of every photo ever posted. Private, deleted, unindexed or inaccessible sources may contain additional photos. Unresolved leads and excluded results are recorded in the gallery.
+Photos remain the property of their creators; no reuse license is granted.

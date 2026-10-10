@@ -1,0 +1,15 @@
+ACACIA HAZE SW 9132 — REAL EXTERIOR PHOTO COLLECTION
+Expanded October 9, 2026
+
+Open acacia-haze-exterior-photos.html in a browser. Keep the photos folder beside it.
+The separate acacia-haze-portable-gallery.html embeds all photos in one standalone file.
+
+NEW: 10 body/siding images—three Campbell House views, one homeowner-confirmed finished house, and six additional views of the already collected Legacy Lake Homes farmhouse. Two newly documented houses. The farmhouse retains secondary color attribution.
+
+TOTAL: 23 source-confirmed body images from 6 houses; 8 secondary-attributed body images from 2 houses. Thus 31 body/siding images across 8 houses. Also 11 exterior-accent images, 3 uncertain images, and 2 outdoor sample-board images. Total: 47 image assets, not 47 houses.
+
+The gallery starts with New views. Use All body / siding to see all 31 main-exterior images. Published real-camera television stills, construction stages, before-and-after panels, and uncertainty are labeled.
+
+sources.json records source pages, original image URLs, evidence, local filenames, and SHA-256 checksums. Social media asset links may expire; stable post links are preserved where available. No photographs were recolored or generated for this collection.
+
+This is thorough public-web research, not a guarantee of every image ever posted. Private, deleted, inaccessible and unindexed images may exist. Photos belong to their respective creators; this collection grants no reuse license.

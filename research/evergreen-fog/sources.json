@@ -1,0 +1,766 @@
+{
+  "title": "Evergreen Fog SW 9130 — real exterior photo collection",
+  "research_date": "2026-10-09",
+  "groups": [
+    {
+      "id": "surepro",
+      "title": "Austin, Texas · siding home and detached garage",
+      "category": "confirmed",
+      "credit": "SurePRO Painting",
+      "source": "https://www.surepropainting.com/portfolio-items/green-house-exterior-with-dark-trim/",
+      "evidence": "The contractor identifies Evergreen Fog as the completed house body color. Four distinct finished views remain after excluding the old yellow exterior and repeated assets.",
+      "palette": "House body: Evergreen Fog · House trim: Urbane Bronze · Natural wood entry",
+      "photos": [
+        {
+          "id": "surepro-01",
+          "file": "photos/surepro-01.jpg",
+          "title": "Timber entry and front siding",
+          "note": "Completed house exterior.",
+          "original_url": "https://www.surepropainting.com/wp-content/uploads/2022/06/1-House-with-Painted-Green-Siding-with-Stained-Wood.jpg",
+          "source": "https://www.surepropainting.com/portfolio-items/green-house-exterior-with-dark-trim/",
+          "sha256": "7bf9927506217b25da9af965dac08c8f9d078a2adc7894ad7c02c2a7a6c58ff6"
+        },
+        {
+          "id": "surepro-02",
+          "file": "photos/surepro-02.jpg",
+          "title": "Front corner and windows",
+          "note": "Completed house exterior.",
+          "original_url": "https://www.surepropainting.com/wp-content/uploads/2022/06/2-house-with-dark-trim-with-green-siding.jpg",
+          "source": "https://www.surepropainting.com/portfolio-items/green-house-exterior-with-dark-trim/",
+          "sha256": "68b7f1a433622b43d91d2a35740d94f3ea490783c7637d135db61b00ff208964"
+        },
+        {
+          "id": "surepro-03",
+          "file": "photos/surepro-03.jpg",
+          "title": "Side elevation and deck",
+          "note": "Completed house exterior.",
+          "original_url": "https://www.surepropainting.com/wp-content/uploads/2022/06/3-painted-green-house-with-dark-trim.jpg",
+          "source": "https://www.surepropainting.com/portfolio-items/green-house-exterior-with-dark-trim/",
+          "sha256": "40273c2f1b9b2cd91b65b34033f625c9e93511a03aa907dd071fd45269f4b452"
+        },
+        {
+          "id": "surepro-04",
+          "file": "photos/surepro-04.jpg",
+          "title": "Detached garage",
+          "note": "Garage from the same project; its light trim differs from the house trim.",
+          "original_url": "https://www.surepropainting.com/wp-content/uploads/2022/06/Green-garage-with-white-trim.jpg",
+          "source": "https://www.surepropainting.com/portfolio-items/green-house-exterior-with-dark-trim/",
+          "sha256": "843c41033ca64ba2fd3f8e36f4f235c9657ebdc133bdd729c3e6929c1353ce33"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "hill-blaine",
+      "title": "Blaine, Washington · two-story siding home",
+      "category": "confirmed",
+      "credit": "Hilltop Painting",
+      "source": "https://hilltoppainting.com/projects/sw-9130-evergreen-fog-blaine-two-story-wa/",
+      "evidence": "The painter lists SW 9130 Evergreen Fog on the body and Pure White on the trim. These are the two finished images; pale original siding and preparation views are omitted.",
+      "palette": "Body: Evergreen Fog / SuperPaint Satin · Trim: Pure White SW 7005",
+      "photos": [
+        {
+          "id": "hill-blaine-01",
+          "file": "photos/hill-blaine-01.webp",
+          "title": "Driveway and front corner",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_6123.Bf_8_CN4_14hMH4.webp",
+          "source": "https://hilltoppainting.com/projects/sw-9130-evergreen-fog-blaine-two-story-wa/",
+          "sha256": "e311303a6cc9fb82b4fd15cf09de2dc2d01653b26700230769c967d8a87fcdd5"
+        },
+        {
+          "id": "hill-blaine-02",
+          "file": "photos/hill-blaine-02.webp",
+          "title": "Finished side elevation",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_6125.Bcfly2C0_FmypD.webp",
+          "source": "https://hilltoppainting.com/projects/sw-9130-evergreen-fog-blaine-two-story-wa/",
+          "sha256": "c36279b615b980fe0702beea6b5e882745ed7ddb45842f4d1288acb6fe2f11ff"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "hill-bellingham",
+      "title": "Bellingham, Washington · stucco bungalow",
+      "category": "confirmed",
+      "credit": "Hilltop Painting",
+      "source": "https://hilltoppainting.com/projects/sw-9130-evergreen-fog-stucco-bungalow-bellingham-wa/",
+      "evidence": "The contractor explicitly specifies Evergreen Fog on the stucco body, downspouts and brick post bases of this completed project.",
+      "palette": "Body: Evergreen Fog · Trim: Greek Villa · Door: Midnight SW 6264 · Porch: Classic French Gray",
+      "photos": [
+        {
+          "id": "hill-bellingham-01",
+          "file": "photos/hill-bellingham-01.webp",
+          "title": "Full front elevation",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_8180.DlHo1F9f_1oWnWY.webp",
+          "source": "https://hilltoppainting.com/projects/sw-9130-evergreen-fog-stucco-bungalow-bellingham-wa/",
+          "sha256": "1ef0a4b2aa987ea32f2f5206928555442fc72f5f5a2ca1e74f00c1e0ab367b98"
+        },
+        {
+          "id": "hill-bellingham-02",
+          "file": "photos/hill-bellingham-02.webp",
+          "title": "Porch, door and stucco detail",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_8181-door.qKB1qdEF_Z16Upt1.webp",
+          "source": "https://hilltoppainting.com/projects/sw-9130-evergreen-fog-stucco-bungalow-bellingham-wa/",
+          "sha256": "f8d7fc7da43fe574af503875704e4d1ef81c7d7acf2c623a315778ecadeba1e0"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "kv",
+      "title": "Greenwood, Seattle · HardiePlank siding",
+      "category": "confirmed",
+      "credit": "KV Construction",
+      "source": "https://kvconstruction.net/projects/seattle-wa/greenwood-lead-safe-hardieplank-siding-evergreen-fog-paint/",
+      "evidence": "The contractor specifies Sherwin-Williams SuperPaint in Evergreen Fog SW 9130 on the new siding and Alabaster SW 7008 for trim. The older blue siding and exposed housewrap photos are omitted. One comparison panel is retained and labeled.",
+      "palette": "Siding: Evergreen Fog · Trim: Alabaster",
+      "photos": [
+        {
+          "id": "kv-01",
+          "file": "photos/kv-01.webp",
+          "title": "Finished front in sunlight",
+          "note": "Warm sunlight changes the apparent color.",
+          "original_url": "https://kvconstruction.net/wp-content/uploads/2026/07/Greenwood-Lead-Safe-HardiePlank-Siding-Replacement-01-1024x611.webp",
+          "source": "https://kvconstruction.net/projects/seattle-wa/greenwood-lead-safe-hardieplank-siding-evergreen-fog-paint/",
+          "sha256": "1ef16ec56e04e0b3429e09d3c6553ce1850a5a53eb83c1a8b6fd1a96a1308d05"
+        },
+        {
+          "id": "kv-02",
+          "file": "photos/kv-02.webp",
+          "title": "Finished side elevation",
+          "note": "Warm sunlight changes the apparent color.",
+          "original_url": "https://kvconstruction.net/wp-content/uploads/2026/07/Greenwood-Lead-Safe-HardiePlank-Siding-Replacement-05-1024x708.webp",
+          "source": "https://kvconstruction.net/projects/seattle-wa/greenwood-lead-safe-hardieplank-siding-evergreen-fog-paint/",
+          "sha256": "27d97097bf798d0698b1bd9d305c84f961735a465e8ff76195226c97d170d17d"
+        },
+        {
+          "id": "kv-03",
+          "file": "photos/kv-03.webp",
+          "title": "Rear elevation and red deck",
+          "note": "Shaded rear view.",
+          "original_url": "https://kvconstruction.net/wp-content/uploads/2026/07/Greenwood-Lead-Safe-HardiePlank-Siding-Replacement-06-1024x708.webp",
+          "source": "https://kvconstruction.net/projects/seattle-wa/greenwood-lead-safe-hardieplank-siding-evergreen-fog-paint/",
+          "sha256": "f431f21e2191c855e3fda3a2794fcf366a009bec6ef7da8a4379979a8e4d6485"
+        },
+        {
+          "id": "kv-04",
+          "file": "photos/kv-04.webp",
+          "title": "Rear corner and siding detail",
+          "note": "Shaded corner view.",
+          "original_url": "https://kvconstruction.net/wp-content/uploads/2026/07/Greenwood-Lead-Safe-HardiePlank-Siding-Replacement-07-1024x708.webp",
+          "source": "https://kvconstruction.net/projects/seattle-wa/greenwood-lead-safe-hardieplank-siding-evergreen-fog-paint/",
+          "sha256": "52eddd7d3296031a0e1df0b6c5556c6f401cb5f24f4ae0230c4664a45aa2e5a7"
+        },
+        {
+          "id": "kv-05",
+          "file": "photos/kv-05.webp",
+          "title": "Before and after comparison",
+          "note": "Evergreen Fog is the LOWER after panel. The upper blue house is the before view.",
+          "original_url": "https://kvconstruction.net/wp-content/uploads/2026/07/Greenwood-Lead-Safe-HardiePlank-Siding-Replacement-02-1024x1024.webp",
+          "source": "https://kvconstruction.net/projects/seattle-wa/greenwood-lead-safe-hardieplank-siding-evergreen-fog-paint/",
+          "sha256": "3b18b948d06356a8902f8ecc940c8f63f792de7f96c9e6365179bbbea8fbac13"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "liberty",
+      "title": "Liberty Cove at Day Ranch · farmhouse model",
+      "category": "confirmed",
+      "credit": "Liberty Homes",
+      "source": "https://www.libertyhomes.com/blog/2022-colors-of-the-year/",
+      "evidence": "The builder’s original 2022 color article says Evergreen Fog is the color chosen for this Farmhouse model home. The same photograph reposted by The Morris Mansion is counted only once.",
+      "palette": "Farmhouse exterior: Evergreen Fog · Other color names not specified",
+      "photos": [
+        {
+          "id": "liberty-01",
+          "file": "photos/liberty-01.jpg",
+          "title": "Builder’s farmhouse model",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://www.libertyhomes.com/wp-content/uploads/2021/10/SW-EvergreenFog.jpg",
+          "source": "https://www.libertyhomes.com/blog/2022-colors-of-the-year/",
+          "sha256": "24b450f75bd4b0615376e166c5c409d75950cfafc446d1861d7242f1d2770ee1"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "casa",
+      "title": "Wittmann, Arizona · stucco and red tile",
+      "category": "confirmed",
+      "credit": "Casa Bella Colors",
+      "source": "https://www.houzz.com/photos/wittmann-az-exterior-paint-consultation-southwestern-exterior-phoenix-phvw-vp~200322416",
+      "evidence": "The color consultant specifies SW 9130 Evergreen Fog for the body and describes the homeowner’s reaction after painting. All eight album entries were checked: two before images and two landscape-only views are excluded.",
+      "palette": "Body: Evergreen Fog · Fascia, pony wall and front door: Black Fox SW 7020",
+      "photos": [
+        {
+          "id": "casa-01",
+          "file": "photos/casa-01.jpg",
+          "title": "Front courtyard and entry",
+          "note": "Completed body color.",
+          "original_url": "https://st.hzcdn.com/simgs/d741987805024974_9-4034/photo.jpg",
+          "source": "https://www.houzz.com/photos/wittmann-az-exterior-paint-consultation-southwestern-exterior-phoenix-phvw-vp~200322416",
+          "sha256": "dabda1b4d5f1475b92f5916b95098c51f5b4dd400dd27d33ce22de8742f668b7"
+        },
+        {
+          "id": "casa-02",
+          "file": "photos/casa-02.jpg",
+          "title": "Angled front and garage",
+          "note": "Completed body color.",
+          "original_url": "https://st.hzcdn.com/simgs/6391356705024979_9-8700/photo.jpg",
+          "source": "https://www.houzz.com/photos/wittmann-az-exterior-paint-consultation-southwestern-exterior-phoenix-phvw-vp~200322416",
+          "sha256": "adc3d658cdf84d4c11a97888a1b313dd886661c81d67cfa5a5a4857e26e353c7"
+        },
+        {
+          "id": "casa-03",
+          "file": "photos/casa-03.jpg",
+          "title": "Wide front with desert landscaping",
+          "note": "Completed body color.",
+          "original_url": "https://st.hzcdn.com/simgs/104132790502497d_9-3605/photo.jpg",
+          "source": "https://www.houzz.com/photos/wittmann-az-exterior-paint-consultation-southwestern-exterior-phoenix-phvw-vp~200322416",
+          "sha256": "eddefc8e3a3d9e3e1b9c563d7f7c5ab575b93e7d7419d4f5f09eeffe1bbe5903"
+        },
+        {
+          "id": "casa-04",
+          "file": "photos/casa-04.jpg",
+          "title": "Rear patio through landscaping",
+          "note": "House body is visible behind the trees; the separate garden wall is Black Fox.",
+          "original_url": "https://st.hzcdn.com/simgs/eb81047805024983_9-3823/photo.jpg",
+          "source": "https://www.houzz.com/photos/wittmann-az-exterior-paint-consultation-southwestern-landscape-phoenix-phvw-vp~200322424",
+          "sha256": "753d80e02aafcfc332cb943ab2d1fb752317ec8148d5381adf79dd351f043c1b"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "All eight original album entries",
+          "url": "https://www.houzz.com/hznb/projects/wittmann-az-exterior-paint-consultation-pj-vj~7285602"
+        }
+      ]
+    },
+    {
+      "id": "house-home",
+      "title": "Aluminum-sided colonial · five finished views",
+      "category": "confirmed",
+      "credit": "House & Home Paint Co. · @houseandhomepaint",
+      "source": "https://www.instagram.com/p/DAgJkz3R9k2/",
+      "evidence": "The painter’s September 29, 2024 post identifies Evergreen Fog for the previously yellow aluminum siding. The complete eleven-slide carousel contains five after photos followed by six yellow before photos; only the after photos are included.",
+      "palette": "Aluminum siding: Evergreen Fog · White trim and black shutters, exact paint names not stated",
+      "photos": [
+        {
+          "id": "house-home-01",
+          "file": "photos/house-home-01.jpg",
+          "title": "Front corner and entry",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://scontent-atl3-1.cdninstagram.com/v/t39.30808-6/467437848_17951789669853244_6261047075690006228_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzQ2NzgxMzgxNTU0NTI1ODc5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hgGIOOnHxXwQ7kNvwFEfkXK&_nc_oc=AdoPxiBZ8JgxC3scnaAm3ALsAEMwjk0hHYUBH8LvbyfIoEHBwCxSendqBnZIkT3pclSNwJwG7N6V8EmqxJEd5Uu7&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=wkIMCjOc7THIywG3wmK0jA&_nc_ss=7b689&oh=00_AQMbaXggWKn4v-wzNkAFz3U4D1_XBi3K684XFYC2Pr0Fow&oe=6ACE1CD0",
+          "source": "https://www.instagram.com/p/DAgJkz3R9k2/",
+          "sha256": "a7e473fd7f404dcdf47ecb36e58f2ff201c41d5734b4f39c656db56feba57f85"
+        },
+        {
+          "id": "house-home-02",
+          "file": "photos/house-home-02.jpg",
+          "title": "Front elevation",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://scontent-atl3-1.cdninstagram.com/v/t39.30808-6/467685035_17951789672853244_6468012451340866581_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzQ2NzgxMzgxNTU3MDUxOTY4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=q8gJ7rV5m3EQ7kNvwFZEHvz&_nc_oc=AdojqZe4J9g-yFYvjLMXgMIFzzwOs5JC_qpX9vMyCy1zPdtCixxlUi1uuYygxhRE6hkKdkyBMnbpJpR-bHvlCOX8&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=wkIMCjOc7THIywG3wmK0jA&_nc_ss=7b689&oh=00_AQMm1HhDfv1qqfWJgx9eWXQLfb8E2S88Q4QDriuKlXI3Vg&oe=6ACE3383",
+          "source": "https://www.instagram.com/p/DAgJkz3R9k2/",
+          "sha256": "1bec5c85ca9fc74d131ef45fc6cd0c807e9534f72bb25b191403a5bf77cd1075"
+        },
+        {
+          "id": "house-home-03",
+          "file": "photos/house-home-03.jpg",
+          "title": "Garage and siding detail",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/461582752_17945350766853244_2630950122628253591_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=MzQ2NzgxMzgxNTUyODYwMTc5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DjU61MON8y0Q7kNvwF9GEtK&_nc_oc=AdpjHFZKdNQLjDWB4w0sNcQEGWtG-lc8iUglbt_idVhTgRSbIHsmBEXVzbL-VIUT6qosQl2hKEq_QSYdFjm_iTRZ&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=wkIMCjOc7THIywG3wmK0jA&_nc_ss=7b689&oh=00_AQOY2Nq558vTWuAHC76fpCoWURwd832AcEyOOZMukwsEgQ&oe=6ACE21E4",
+          "source": "https://www.instagram.com/p/DAgJkz3R9k2/",
+          "sha256": "df02326a93d5f9c4f00efa65ccfb42dd6ac0924ec5e34c1275bdba23327d7f8d"
+        },
+        {
+          "id": "house-home-04",
+          "file": "photos/house-home-04.jpg",
+          "title": "Rear corner",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://scontent-atl3-1.cdninstagram.com/v/t39.30808-6/461593939_17945350778853244_7106235091995731374_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=103&ig_cache_key=MzQ2NzgxMzgxNTUwMzMxMjg3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wanT6TVb-IYQ7kNvwFBttTU&_nc_oc=AdrbUxLEfNBhdMkrabwE24Rv_86wIaRasQqrynhZkIkuQxLKy3tgqKA88MCE96LeKCmd119yTsE7WBtrmKZUPcYm&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=wkIMCjOc7THIywG3wmK0jA&_nc_ss=7b689&oh=00_AQOqgaO1RLo4w87C_1lmA8XgGI9848g9GnwXZFBOeYNGCg&oe=6ACE1C77",
+          "source": "https://www.instagram.com/p/DAgJkz3R9k2/",
+          "sha256": "e9fc49deb361a2a70540e57591ee386384b5c6d84af91509c3f77b978415c499"
+        },
+        {
+          "id": "house-home-05",
+          "file": "photos/house-home-05.jpg",
+          "title": "Rear elevation and deck",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/461294030_17945350787853244_5546404032418117800_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=MzQ2NzgxMzgxNTU1MzY2Njc1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s9mWJe_4j6QQ7kNvwH0Evw7&_nc_oc=AdrycwUPWH-w1aA22T_6JbfhO6-8agutZ72n3uPdpQFb6ig7GsY-ClEDM2Ke0-GHvsR9PAONSpotU5zduU_x_tm6&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=wkIMCjOc7THIywG3wmK0jA&_nc_ss=7b689&oh=00_AQNEV8QfO_ZjdxVIk-CEPSmwAeLbBzLKeTO7qxlhAL08IA&oe=6ACE3B7C",
+          "source": "https://www.instagram.com/p/DAgJkz3R9k2/",
+          "sha256": "b6e453e6b90b7226984294426b0d233b681b2a77c4027f068aeae6bbc617400c"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "hm",
+      "title": "Northview Meadows · raised-entry home",
+      "category": "confirmed",
+      "credit": "HM Precision Painting · @hmpaintingkc",
+      "source": "https://www.instagram.com/p/Cyv7m2xukKP/",
+      "evidence": "The painter’s October 23, 2023 post and indexed caption identify the body as Evergreen Fog S-W 9130. The post labels slide one after and slide two before; only the after photo is retained.",
+      "palette": "Body: Evergreen Fog · Trim: Shoji White · Front and garage doors: Iron Ore",
+      "photos": [
+        {
+          "id": "hm-01",
+          "file": "photos/hm-01.jpg",
+          "title": "Finished front and garage",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/468795869_18279149419219392_7272770821167857079_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzIxOTY3NjkxODM4MjcxMTM5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HVulokotHfUQ7kNvwGdugl6&_nc_oc=AdohxmfICPisk1nDj_QqVMO3eUNUQL2p6GXKAwoVjxARvxQmgjpgj_vMpHJUpTdVZuAMegDVeJ41dJGD3KQ9FHIC&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=787hFJPHsE9tBKXpHNkOyg&_nc_ss=7b689&oh=00_AQMCujBhDCW5V7zvqEGweThLsyjdK3hVu22BOqZe1iv3zg&oe=6ACE4ACB",
+          "source": "https://www.instagram.com/p/Cyv7m2xukKP/",
+          "sha256": "523447a3ffdd43de188c252f9410d77fa4d0a43316352e1045ef0b681c2a0624"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "certapro",
+      "title": "Midtown Tulsa, Oklahoma · modern exterior",
+      "category": "confirmed",
+      "credit": "CertaPro Painters of Tulsa",
+      "source": "https://certapro.com/tulsa/portfolio/exterior-repaint-with-evergreen-fog-iron-ore/",
+      "evidence": "The painter’s May 7, 2026 project entry explicitly names SW 9130 Evergreen Fog siding and SW 7068 Iron Ore trim. The portfolio thumbnail and larger project photo are the same view, counted once.",
+      "palette": "Siding: Evergreen Fog · Trim: Iron Ore",
+      "photos": [
+        {
+          "id": "certapro-01",
+          "file": "photos/certapro-01.jpg",
+          "title": "Siding, driveway and entry",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://media.certapro.com/uploads/sites/1527/2026/05/Skeithfinal-1-scaled.jpg",
+          "source": "https://certapro.com/tulsa/portfolio/exterior-repaint-with-evergreen-fog-iron-ore/",
+          "sha256": "f92044b76420d86c36d2db850771585d0f4cec82e0605ca130c3cfb65e03afda"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "tanglewood",
+      "title": "Tanglewood townhomes · Garden City, Idaho",
+      "category": "attributed",
+      "credit": "Spray’nCoat Painting",
+      "source": "https://www.sprayncoat.com/spotlight/hoa-exterior-townhome-painting-at-tanglewood",
+      "evidence": "The contractor’s completed HOA project used a palette of Evergreen Fog, Perfect Taupe, Antique Tin and Focus. These green after views appear consistent with Evergreen Fog, but individual photos are not mapped to paint names. Their assignment is an inference, so they are outside the confirmed count.",
+      "palette": "Project palette includes Evergreen Fog · Individual green-building assignment inferred",
+      "photos": [
+        {
+          "id": "tanglewood-01",
+          "file": "photos/tanglewood-01.png",
+          "title": "Green townhome front",
+          "note": "Palette-level attribution only.",
+          "original_url": "https://irp.cdn-website.com/9e1b414b/dms3rep/multi/opt/HOA-exterior-painting-spotlight+%286%29-1920w.png",
+          "source": "https://www.sprayncoat.com/spotlight/hoa-exterior-townhome-painting-at-tanglewood",
+          "sha256": "192c68a0ecf94e1208c26f75487ed32c7bc568bdae6455ae489b7bc11c870d0c"
+        },
+        {
+          "id": "tanglewood-02",
+          "file": "photos/tanglewood-02.png",
+          "title": "Green courtyard elevations",
+          "note": "Palette-level attribution only.",
+          "original_url": "https://irp.cdn-website.com/9e1b414b/dms3rep/multi/opt/HOA-exterior-painting-spotlight+%287%29-1920w.png",
+          "source": "https://www.sprayncoat.com/spotlight/hoa-exterior-townhome-painting-at-tanglewood",
+          "sha256": "e8a9abc50b06a09a98868f9b9457b0bf9a1276df025da72ee9df75b8130cfbe9"
+        },
+        {
+          "id": "tanglewood-03",
+          "file": "photos/tanglewood-03.png",
+          "title": "Green rear and balcony",
+          "note": "Palette-level attribution only.",
+          "original_url": "https://irp.cdn-website.com/9e1b414b/dms3rep/multi/opt/HOA-exterior-painting-spotlight+%288%29-1920w.png",
+          "source": "https://www.sprayncoat.com/spotlight/hoa-exterior-townhome-painting-at-tanglewood",
+          "sha256": "bfa798c36fa086667c37089d91587f0b3340fe688519001edcff545b0fca3fce"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "dague",
+      "title": "Covered porch with green siding and brick",
+      "category": "attributed",
+      "credit": "@daguecommunities, credited by PLAN Home",
+      "source": "https://plan-home.com/color/evergreen-fog-sw-9130",
+      "evidence": "PLAN Home labels this real porch photograph as an Evergreen Fog exterior and credits @daguecommunities. An original builder color statement was not recovered. The visible application is the siding within the porch.",
+      "palette": "Porch siding attributed to Evergreen Fog",
+      "photos": [
+        {
+          "id": "dague-01",
+          "file": "photos/dague-01.webp",
+          "title": "Siding below natural wood porch ceiling",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://plan-home.com/uploads/color_image/evergreen-fog-sw-9130-88_6ZqsehA.webp",
+          "source": "https://plan-home.com/color/evergreen-fog-sw-9130",
+          "sha256": "7a08ae35d068222c835d8c9ff048a89e812b31fd3e5ba90333cee88eb3d90663"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "jen",
+      "title": "Rear siding, deck and above-ground pool",
+      "category": "attributed",
+      "credit": "@jen1651, credited by PLAN Home",
+      "source": "https://plan-home.com/color/evergreen-fog-sw-9130",
+      "evidence": "PLAN Home includes this real residential exterior in its Evergreen Fog examples and credits @jen1651. The original homeowner paint statement was not independently recovered.",
+      "palette": "House siding attributed to Evergreen Fog",
+      "photos": [
+        {
+          "id": "jen-01",
+          "file": "photos/jen-01.webp",
+          "title": "Rear elevation and deck",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://plan-home.com/uploads/color_image/evergreen-fog-sw-9130-87_R61j9K7.webp",
+          "source": "https://plan-home.com/color/evergreen-fog-sw-9130",
+          "sha256": "df068b9c87b4d685bb45c1d2beb3b5f10f056563ce0d89f917eba64a9e6096a0"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "tuft",
+      "title": "Cape Cod makeover · white brick with green accents",
+      "category": "accents",
+      "credit": "Courtney Davey · Tuft & Trim",
+      "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+      "evidence": "The homeowner explicitly identifies Evergreen Fog on the front door, shutters and garage door. Eighteen photos show these elements, including rear shutters, detail shots and two labeled intermediate stages. The house body uses other finishes.",
+      "palette": "Door, shutters and garage: Evergreen Fog · Siding and trim: Alabaster · Brick: Romabio Ovario White limewash",
+      "photos": [
+        {
+          "id": "tuft-01",
+          "file": "photos/tuft-01.jpg",
+          "title": "Full front from lawn",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2017.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "781978ba0f0989be2ff2830a00b61705db74c57d4b9a9e44673ec1faa16812cc"
+        },
+        {
+          "id": "tuft-02",
+          "file": "photos/tuft-02.jpg",
+          "title": "Wide front elevation",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2019.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "471dc754568d4e3b25f1f208b62dfa95399690a73c899b8528fd4690a56506b3"
+        },
+        {
+          "id": "tuft-03",
+          "file": "photos/tuft-03.jpg",
+          "title": "Front entry and shutters",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2016.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "54e694ba41952b39e5287286bf83e41d340d4979b97006b18991f32eddf8e353"
+        },
+        {
+          "id": "tuft-04",
+          "file": "photos/tuft-04.jpg",
+          "title": "Angled front from left",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/final-a-1.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "fbacccecbbf6cbb3f1c44f678220e86e9f925f3bc6c1e99a1462f5f4b765fbeb"
+        },
+        {
+          "id": "tuft-05",
+          "file": "photos/tuft-05.jpg",
+          "title": "Front and side in sunlight",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2247-1.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "c642d129c15a154554768f3acc9ffef633cd53d0a3f34237501f71f85bb0ad03"
+        },
+        {
+          "id": "tuft-06",
+          "file": "photos/tuft-06.jpg",
+          "title": "Garage-side elevation",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2163.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "d811bd07f5610e26ba34257941f4ab01e249cb140763dd78d1be461f4ece2400"
+        },
+        {
+          "id": "tuft-07",
+          "file": "photos/tuft-07.jpg",
+          "title": "Garage and side door",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2155.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "e895c186a1cbd30786750df3e39d19f23e1363e041c43fb10f89cf01d5ee6eb1"
+        },
+        {
+          "id": "tuft-08",
+          "file": "photos/tuft-08.jpg",
+          "title": "Rear corner",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2184.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "0c6ab01694460284780e0dadbe70d955435caeb8ef5d6a8ce1bacd3c33628a52"
+        },
+        {
+          "id": "tuft-09",
+          "file": "photos/tuft-09.jpg",
+          "title": "Closer rear corner",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2209-1.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "6aa17882f506512ef5b739ae7ba77d37825434abe083403d534f932d939671b6"
+        },
+        {
+          "id": "tuft-10",
+          "file": "photos/tuft-10.jpg",
+          "title": "Rear elevation and deck",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2076.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "6e68ef534f1bfb17fbc74dadc79612ca551ce67f0a9ae3bac547755e32d84bce"
+        },
+        {
+          "id": "tuft-11",
+          "file": "photos/tuft-11.jpg",
+          "title": "Rear and deck, angle one",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2195-2.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "db904da6aa21f0dec9e4bdc654a071506e5eeb20bff6809dd8d88b4266ef3228"
+        },
+        {
+          "id": "tuft-12",
+          "file": "photos/tuft-12.jpg",
+          "title": "Rear and deck, angle two",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2195.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "9d6790bea9901280277c0ec7218cbc17586875122d368c2bb4637eee29c3a878"
+        },
+        {
+          "id": "tuft-13",
+          "file": "photos/tuft-13.jpg",
+          "title": "Green front door before brick limewash",
+          "note": "Intermediate stage: Evergreen Fog front door is painted; the brick body is still red.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_9909.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "fa95000d13aa7f57941152b6d44ae3b5b179ece869ac4fe4728fd1dc56a94869"
+        },
+        {
+          "id": "tuft-14",
+          "file": "photos/tuft-14.jpg",
+          "title": "Green front door during limewashing",
+          "note": "Intermediate stage: the green entry door is visible while limewash work continues.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_0744.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "27301a6d116b1a4f8ed83edc96db850e622b43959231a966defce1af9b587ade"
+        },
+        {
+          "id": "tuft-15",
+          "file": "photos/tuft-15.jpg",
+          "title": "Front after limewash",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_0907.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "bfd4c1eaec11b7b4f3345f8371981b0445f5fe29f078ffe23b82b30ea326beea"
+        },
+        {
+          "id": "tuft-16",
+          "file": "photos/tuft-16.jpg",
+          "title": "Window and shutter close-up",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_1365.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "8747d71e12f3c246358cdcc7b7ef74ded1861c26d7e4a7b41a5e2c1c837f1d2f"
+        },
+        {
+          "id": "tuft-17",
+          "file": "photos/tuft-17.jpg",
+          "title": "Lantern and shutter detail",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2218.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "45a5ab609efa1a6d037c845ff41bae4e81f5ace5c9e9e6efdfe7f8fef9482755"
+        },
+        {
+          "id": "tuft-18",
+          "file": "photos/tuft-18.jpg",
+          "title": "Shutters and front walkway",
+          "note": "Evergreen Fog is on doors and shutters; the body is white.",
+          "original_url": "https://tuftandtrim.com/wp-content/uploads/2022/05/IMG_2169.jpg",
+          "source": "https://tuftandtrim.com/white-limewashed-brick-exterior-makeover/",
+          "sha256": "5ff0109588c5e3bf675343c3c8a422747fce29e847c7cd3ce6af96141570e71b"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "kristina",
+      "title": "White brick house · green shutters",
+      "category": "accents",
+      "credit": "@kristinascollective, featured by Sherwin-Williams",
+      "source": "https://blog.sherwin-williams.com/projects/project-inspiration/painted-woodwork-projects-evergreen-fog/",
+      "evidence": "Sherwin-Williams credits this real-home photograph and explicitly names Evergreen Fog on the shutters. The same image appears more than once on the manufacturer site and is counted once.",
+      "palette": "Shutters only: Evergreen Fog",
+      "photos": [
+        {
+          "id": "kristina-01",
+          "file": "photos/kristina-01.png",
+          "title": "Brick exterior and painted shutters",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://blog.sherwin-williams.com/wp-content/uploads/2021/12/new-@kristinascollective-1024x683.png",
+          "source": "https://blog.sherwin-williams.com/projects/project-inspiration/painted-woodwork-projects-evergreen-fog/",
+          "sha256": "a83ba8baad03dae1cd404b625070bed39bbd0502b9d514afde08068f040c1f3c"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "dani",
+      "title": "Enclosed porch · painted siding",
+      "category": "accents",
+      "credit": "@itsdaniwise, credited by Mod & Mood",
+      "source": "https://modandmood.com/sherwin-williams-evergreen-fog-2022-color-of-the-year-plus-dupes-sw-9130/",
+      "evidence": "Mod & Mood identifies Evergreen Fog on the siding inside this enclosed porch and credits @itsdaniwise. These are two photographs of the same space; the rest of the house exterior is not shown and primary confirmation was not recovered.",
+      "palette": "Enclosed porch siding attributed to Evergreen Fog",
+      "photos": [
+        {
+          "id": "dani-01",
+          "file": "photos/dani-01.jpg",
+          "title": "Porch siding and white brick",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://modandmood.com/wp-content/uploads/2022/04/evergreen-fog-enclosed-porch-itsdaniwise-1-1.jpg",
+          "source": "https://modandmood.com/sherwin-williams-evergreen-fog-2022-color-of-the-year-plus-dupes-sw-9130/",
+          "sha256": "081016142ae8aed79501fabcb0563505c0456f42c7052894f25a92a22c3ac088"
+        },
+        {
+          "id": "dani-02",
+          "file": "photos/dani-02.jpg",
+          "title": "Second porch view",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://modandmood.com/wp-content/uploads/2022/04/itsdaniwise-evergreen-fog-porch-2-1-1.jpg",
+          "source": "https://modandmood.com/sherwin-williams-evergreen-fog-2022-color-of-the-year-plus-dupes-sw-9130/",
+          "sha256": "a060a8728aadce5c436bb1ad24637d0689093d1d22539d04846b4262b23fb754"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "shane",
+      "title": "Green front door against dark siding",
+      "category": "accents",
+      "credit": "@shane.l.jones, credited by PLAN Home",
+      "source": "https://plan-home.com/color/evergreen-fog-sw-9130",
+      "evidence": "PLAN Home includes this photograph under Evergreen Fog and credits @shane.l.jones. The image itself labels the door Sherwin-Williams Evergreen Fog. The surrounding dark siding is a different color.",
+      "palette": "Front door only: Evergreen Fog",
+      "photos": [
+        {
+          "id": "shane-01",
+          "file": "photos/shane-01.webp",
+          "title": "Front door and dark siding",
+          "note": "Original project photograph; see the source and project color notes above.",
+          "original_url": "https://plan-home.com/uploads/color_image/evergreen-fog-sw-9130-70.webp",
+          "source": "https://plan-home.com/color/evergreen-fog-sw-9130",
+          "sha256": "61bed827160aa5b326b21b09e94e8935111bf9fe1b10d115b275c047ea4f3804"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "unverified-blog",
+      "title": "Unverified blog exterior",
+      "category": "uncertain",
+      "credit": "FineHomeKeeping",
+      "source": "https://finehomekeeping.com/evergreen-fog-sherwin-williams-exterior/",
+      "evidence": "The article labels this house image as Evergreen Fog, but no original photographer, homeowner or applied-paint project record is supplied. Photographic authenticity and color attribution could not be established. Retained only as an explicitly unverified lead.",
+      "palette": "Unverified: do not use as proof of an actual Evergreen Fog paint application",
+      "photos": [
+        {
+          "id": "unverified-blog-01",
+          "file": "photos/unverified-blog-01.jpg",
+          "title": "Unverified illustrated exterior",
+          "note": "Excluded from every confirmed and attributed real-photo count.",
+          "original_url": "https://finehomekeeping.com/wp-content/uploads/2026/04/An-Image-of-Evergreen-Fog-Color-on-the-Exterior-1024x576.jpg",
+          "source": "https://finehomekeeping.com/evergreen-fog-sherwin-williams-exterior/",
+          "sha256": "15474e44d3977709f5cc2bce6aaa72e60a174842c8c58f484419baa9755c6b86"
+        }
+      ],
+      "extra_sources": []
+    }
+  ],
+  "exclusions": [
+    {
+      "title": "Before images and repeated photos",
+      "url": "https://www.instagram.com/p/DAgJkz3R9k2/",
+      "reason": "Omitted six yellow before slides from House & Home, one HM before slide, old/preparation views from Hilltop and KV, and before-only Casa Bella views. Known reposts and duplicate image sizes count once. Distinct framings and one before/after panel remain."
+    },
+    {
+      "title": "Houzz: siding that is still primer",
+      "url": "https://www.houzz.com/discussions/6233608/exterior-colors-w-sw-evergreen-fog",
+      "reason": "The homeowner explicitly says the pictured cement-board siding is unpainted primer. The visual resemblance does not establish Evergreen Fog."
+    },
+    {
+      "title": "Houzz: color advice and subsequent change to Retreat",
+      "url": "https://www.houzz.com/discussions/6277630/sw-evergreen-fog",
+      "reason": "Discussion and reference images do not establish a completed Evergreen Fog house. A commenter says they changed the applied Evergreen Fog to Retreat."
+    },
+    {
+      "title": "Mod & Mood comparison colors",
+      "url": "https://modandmood.com/sherwin-williams-evergreen-fog-2022-color-of-the-year-plus-dupes-sw-9130/",
+      "reason": "The article also displays Rosemary and Benjamin Moore Carolina Gull exteriors. Those are excluded; only its attributed Evergreen Fog porch is included."
+    },
+    {
+      "title": "Setting for Four exterior illustration",
+      "url": "https://www.settingforfour.com/sherwin-williams-evergreen-fog-color-of-the-year-2022-sw-9130/",
+      "reason": "The exterior image is an architectural-style rendering, not a documented photograph of completed paint."
+    },
+    {
+      "title": "Pontata inspiration compilations",
+      "url": "https://pontata.com/color/sw-evergreen-fog",
+      "reason": "Known PLAN Home photos repeat here. Other house/door inspiration images have no verified real project record and several have synthetic visual characteristics. One image labeled house is an interior. Unverified generated-looking images are excluded."
+    },
+    {
+      "title": "AI paint visualizations",
+      "url": "https://paintvue.com/share/c1NeRhxCL3_466EvNqf6_g",
+      "reason": "Explicitly AI paint visualization. PaintVue, Facade Colorizer and similar recoloring/rendering results are not real applied-paint evidence."
+    },
+    {
+      "title": "Villa Portofino color estimates",
+      "url": "https://villaportofinopainting.com/additional-photos",
+      "reason": "The gallery describes its Sherwin-Williams names as nearest visual matches inferred from photographs, rather than records of the paint actually applied. Those labels do not verify SW 9130."
+    },
+    {
+      "title": "JC Julio general color palette",
+      "url": "https://jcjuliopaintingllc.com/",
+      "reason": "Evergreen Fog appears in a general color-swatch section; the site does not connect it to the pictured exterior project."
+    },
+    {
+      "title": "Liberty Homes: Heber social-post lead",
+      "url": "https://www.instagram.com/p/CyOxboVJsHb/",
+      "reason": "A builder caption describes Evergreen Fog siding with cream and stone accents at a Heber home. Further photo retrieval was blocked; retained as a source link, not counted as a saved photograph."
+    },
+    {
+      "title": "Reddit homeowner lead",
+      "url": "https://www.reddit.com/r/Homebuilding/comments/1h58zuk/",
+      "reason": "The indexed title refers to an Evergreen Fog exterior. The post required a human-verification challenge, so its photo could not be examined or included."
+    },
+    {
+      "title": "Highland Homes Westin II lead",
+      "url": "https://www.highlandhomes.org/inspiration-gallery/exteriors/westin-ii-exterior-?pagingtype=main",
+      "reason": "Search indexing lists Evergreen Fog as an accent. The current URL returned the general homepage, so the exact image-to-palette match was not recovered."
+    },
+    {
+      "title": "Planning schedules and color proposals",
+      "url": "https://www.libertyhomes.com/blog/2022-colors-of-the-year/",
+      "reason": "Paint schedules, proposed elevations, swatches and color-selection questions are not counted as photos of completed paint. Only sources connecting the color to a photographed real project qualify for the main set."
+    }
+  ],
+  "counts": {
+    "confirmed": 25,
+    "attributed": 5,
+    "accents": 22,
+    "uncertain": 1
+  },
+  "methodology": "Searched public web and image results for Evergreen Fog, SW 9130/SW9130, house, exterior, siding, stucco, painting, before/after and door terms. Checked contractor portfolios, builder articles, homeowner posts, manufacturer features, Houzz albums, Instagram carousels, Reddit leads and secondary design publications. Traced credits where possible, inspected collected images, removed known reposts and before-only photos, and kept distinct angles and labeled comparison/stage images. Source-confirmed means an original project source names the applied paint; it is not a guarantee of paint chemistry or camera color accuracy. The nine confirmed projects include 25 image assets; one asset is a before/after panel. Additional attributions include one project-palette inference. Private, deleted, unindexed, login-restricted and otherwise inaccessible posts may contain more photographs. This is a thorough public-web collection, not a claim to every photo in existence."
+}

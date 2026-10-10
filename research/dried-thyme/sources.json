@@ -1,0 +1,735 @@
+{
+  "title": "Dried Thyme SW 6186 — real exterior photo collection",
+  "research_date": "2026-10-09",
+  "groups": [
+    {
+      "id": "hilltop",
+      "title": "Wooded rambler · Bellingham, Washington",
+      "category": "confirmed",
+      "credit": "Hilltop Painting",
+      "source": "https://hilltoppainting.com/projects/sw-6186-dried-thyme-rambler-bellingham-wa/",
+      "evidence": "The painting contractor explicitly specifies Dried Thyme SW 6186 on the body and Antique White SW 6119 on the trim, using SuperPaint Satin. All three distinct finished views are included; the two pale-yellow before photos are omitted.",
+      "palette": "Body: Dried Thyme SW 6186 · Trim: Antique White SW 6119 · SuperPaint Satin",
+      "photos": [
+        {
+          "id": "hilltop-01",
+          "file": "photos/hilltop-01.webp",
+          "download_name": "hilltop-01.webp",
+          "title": "Full front and wooded lawn",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_0093.0wIsf_Pe_24op7t.webp",
+          "source": "https://hilltoppainting.com/projects/sw-6186-dried-thyme-rambler-bellingham-wa/",
+          "sha256": "5037fbf5f0bb501fba042eeec1069981eea70e937c3493cd06fd30dcf5b6e87b"
+        },
+        {
+          "id": "hilltop-02",
+          "file": "photos/hilltop-02.webp",
+          "download_name": "hilltop-02.webp",
+          "title": "Side and entry corner",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_0092.DVq0ikX-_epneB.webp",
+          "source": "https://hilltoppainting.com/projects/sw-6186-dried-thyme-rambler-bellingham-wa/",
+          "sha256": "b11c2d82533bc72d9868a6fdea2a6f636eb7e5806c92dd9adce847b0bbfc8dab"
+        },
+        {
+          "id": "hilltop-03",
+          "file": "photos/hilltop-03.webp",
+          "download_name": "hilltop-03.webp",
+          "title": "Garage elevation",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://hilltoppainting.com/_astro/IMG_0096.CN4G9hNp_Z2sDkiT.webp",
+          "source": "https://hilltoppainting.com/projects/sw-6186-dried-thyme-rambler-bellingham-wa/",
+          "sha256": "f1c958f0783c339a28a2235d72b44fe69507768b70f4687e125ed201997fbf3c"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "seamar",
+      "title": "Gabled coastal house · Charleston, South Carolina",
+      "category": "confirmed",
+      "credit": "Seamar Construction Group · Houzz",
+      "source": "https://www.houzz.com/discussions/634944/love-this-color",
+      "evidence": "The builder answers the original Houzz question with Sherwin-Williams SW 6186 Dried Thyme. Sherwin-Williams also shares this photograph on its official Pinterest account. The larger original Houzz photograph is retained; the Pinterest copy is not counted again.",
+      "palette": "Body: Dried Thyme SW 6186 · Trim and shutter paint names not supplied",
+      "photos": [
+        {
+          "id": "seamar-01",
+          "file": "photos/seamar-01.jpg",
+          "download_name": "seamar-01.jpg",
+          "title": "Full front, stairs and screened porch",
+          "note": "Direct sun and strong shadows create substantial variation across the siding.",
+          "original_url": "https://st.hzcdn.com/simgs/7391d3080fcf62ce_14-0739/photo.jpg",
+          "source": "http://www.houzz.com/photos/1034880/Exteriors-traditional-exterior-charleston",
+          "sha256": "2bc921b46a35f733cca9a3336cbaa46bc67fea1da109cf479f16ed5619311700"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Official Sherwin-Williams pin",
+          "url": "https://www.pinterest.com/pin/249035054371357344/"
+        },
+        {
+          "label": "Original project photograph",
+          "url": "http://www.houzz.com/photos/1034880/Exteriors-traditional-exterior-charleston"
+        }
+      ]
+    },
+    {
+      "id": "texas",
+      "title": "LP SmartSide replacement · North Houston / Spring, Texas",
+      "category": "confirmed",
+      "credit": "Texas Home Exteriors · photograph credit: Greg Kapitan",
+      "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089256",
+      "evidence": "The contractor specifies Dried Thyme SW 6186 siding and Roman Column SW 7562 trim. Six different siding-bearing photographs from the seven-image project are included. The remaining image is primarily a porch-ceiling detail, whose color is not separately identified; it is linked under further references.",
+      "palette": "Siding: Dried Thyme SW 6186 · Trim: Roman Column SW 7562",
+      "photos": [
+        {
+          "id": "texas-01",
+          "file": "photos/texas-01.jpg",
+          "download_name": "texas-01.jpg",
+          "title": "Rear elevation by the pool",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/bb81bd6805feec41_14-0603/photo.jpg",
+          "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089256",
+          "sha256": "35566d68cfbb15cd1db09d4596815890f41af349794f3645bc95d1156e3c63d9"
+        },
+        {
+          "id": "texas-02",
+          "file": "photos/texas-02.jpg",
+          "download_name": "texas-02.jpg",
+          "title": "Chimney and gable",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/2521aaeb05feec34_14-0603/photo.jpg",
+          "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089250",
+          "sha256": "122cc0512ab0113a4f11bcf12843855383affaaa28b919c8121b142cd647d179"
+        },
+        {
+          "id": "texas-03",
+          "file": "photos/texas-03.jpg",
+          "download_name": "texas-03.jpg",
+          "title": "Bay-window corner",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/ba114ab505feec4e_14-6356/photo.jpg",
+          "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089260",
+          "sha256": "9ba1565e593ed0806feaf8d19d2721e75da80c78fa91b97d6362e8f05fa7df6a"
+        },
+        {
+          "id": "texas-04",
+          "file": "photos/texas-04.jpg",
+          "download_name": "texas-04.jpg",
+          "title": "Garage and upper window",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/7ab137d105feec1d_14-6356/photo.jpg",
+          "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089241",
+          "sha256": "e6e1e7806a4bda027420d4eb3387e4d0d4590a158f41604ef48f4503bfd8935c"
+        },
+        {
+          "id": "texas-05",
+          "file": "photos/texas-05.jpg",
+          "download_name": "texas-05.jpg",
+          "title": "Side gable and brick chimney",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/0dc1bbba05feebfd_14-6355/photo.jpg",
+          "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089238",
+          "sha256": "2ec30cc606f0ab940ca9e08795f1cb16268ff5ab9dd8900df957897ec8c2cbac"
+        },
+        {
+          "id": "texas-06",
+          "file": "photos/texas-06.jpg",
+          "download_name": "texas-06.jpg",
+          "title": "Front dormers and porch",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/62110ec705feec0a_14-6356/photo.jpg",
+          "source": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-exterior-phvw-vp~40089239",
+          "sha256": "e421c725a7a570e433d91cc6863d53169a4401cb9f11a24245b02ed11f6783d8"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "berea",
+      "title": "Completed repaint · Berea, Ohio",
+      "category": "confirmed",
+      "credit": "Textbook Painting",
+      "source": "https://www.textbookpainting.com/house-painters-in-berea-bring-a-bold-transformation/",
+      "evidence": "The painter states that the applied colors are Dried Thyme on the body, Navajo White on the trim, and Peppercorn on the shutters and door. Two distinct green after views are retained. A tighter crop of the same front photograph and the white/red before photos are excluded. Some image alt labels on the page are reversed; the written palette and visible before/after surfaces establish the selection.",
+      "palette": "Body: Dried Thyme SW 6186 · Trim: Navajo White SW 6126 · Shutters and door: Peppercorn SW 7674",
+      "photos": [
+        {
+          "id": "berea-01",
+          "file": "photos/berea-01.jpg",
+          "download_name": "berea-01.jpg",
+          "title": "Straight-on gabled elevation",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://www.textbookpainting.com/wp-content/uploads/2018/09/image-uploaded-from-ios-2.jpg",
+          "source": "https://www.textbookpainting.com/house-painters-in-berea-bring-a-bold-transformation/",
+          "sha256": "978f4a65ebd3c88727fae6b849d441e00f509e2f709eaea31dd35e83e74eacad"
+        },
+        {
+          "id": "berea-02",
+          "file": "photos/berea-02.jpg",
+          "download_name": "berea-02.jpg",
+          "title": "Angled front and side",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://www.textbookpainting.com/wp-content/uploads/2018/09/image-uploaded-from-ios-1.jpg",
+          "source": "https://www.textbookpainting.com/house-painters-in-berea-bring-a-bold-transformation/",
+          "sha256": "b60fefa0f002fe340970341bd05e8bbbf95811c1726a87954fd63251957f2cef"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "stone",
+      "title": "Estates of Wolf Creek · Spring Hill, Kansas",
+      "category": "confirmed",
+      "credit": "Stone Painting",
+      "source": "https://stonepaintingkc.com/projects/exterior-painting-estates-of-wolf-creek-spring-hill-ks/",
+      "evidence": "The contractor documents this completed exterior repaint and names Dried Thyme, Shiitake and Tricorn Black as the applied palette. The single finished-house composition appears twice on the page and is counted once. The page describes Dried Thyme as the principal green tone and Tricorn Black on shutters and architectural details; it does not provide a full surface-by-surface schedule.",
+      "palette": "Applied palette: Dried Thyme SW 6186 · Shiitake SW 9173 · Tricorn Black SW 6258",
+      "photos": [
+        {
+          "id": "stone-01",
+          "file": "photos/stone-01.png",
+          "download_name": "stone-01.png",
+          "title": "Completed house and garage",
+          "note": "The truck and shade obscure portions of the exterior. Use the project palette with the source’s stated limits.",
+          "original_url": "http://stonepaintingkc.com/wp-content/uploads/2026/07/exterior-painting-prairie-village-ks.png",
+          "source": "https://stonepaintingkc.com/projects/exterior-painting-estates-of-wolf-creek-spring-hill-ks/",
+          "sha256": "f780a0819257a9442c1e06333e0848768fb8dddc8de612374ea9ca19d5012ba9"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "spring111s",
+      "title": "Single-story home · paver driveway",
+      "category": "attributed",
+      "credit": "@spring111s, credited by PLAN Home",
+      "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "evidence": "PLAN Home labels this real exterior photograph Dried Thyme SW 6186 and credits @spring111s. The original homeowner or painter caption was not recovered, so the color remains a secondary attribution.",
+      "palette": "Body attributed to Dried Thyme · Trim and shutter names unverified",
+      "photos": [
+        {
+          "id": "spring111s-01",
+          "file": "photos/spring111s-01.webp",
+          "download_name": "spring111s-01.webp",
+          "title": "House and garage from the driveway",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-79_68VB3Ob.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "83bc689a70eff177f22bfcf43489e55a51ea97180e38877670144be4636d7f6e"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "kind-porch",
+      "title": "Two-story porch house and detached garage",
+      "category": "attributed",
+      "credit": "@kindhomesolutions, credited by PLAN Home",
+      "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "evidence": "PLAN Home publishes these five photographs as Dried Thyme exterior examples and credits @kindhomesolutions. They show the same porch-house setting and a garage view from the credited set. The original contractor caption was not recovered. Reposts on Pontata and Pinterest repeat these compositions and are not counted again.",
+      "palette": "Siding attributed to Dried Thyme · White trim and dark door colors not independently verified",
+      "photos": [
+        {
+          "id": "kind-porch-01",
+          "file": "photos/kind-porch-01.webp",
+          "download_name": "kind-porch-01.webp",
+          "title": "Front elevation above the stone wall",
+          "note": "Wider completed-looking front view.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-97.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "057218489b538ec9ea32b0e9ff36b6de5b7f618a06a5d11a08e073e79473fcfc"
+        },
+        {
+          "id": "kind-porch-02",
+          "file": "photos/kind-porch-02.webp",
+          "download_name": "kind-porch-02.webp",
+          "title": "Full house during painting",
+          "note": "Work remains underway: a painter and ladder are visible.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-101.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "ca371c31d3ae6a2bccd90aa8505a8ce58c1bfd54b8fca24558c1c5ce83d3f5ca"
+        },
+        {
+          "id": "kind-porch-03",
+          "file": "photos/kind-porch-03.webp",
+          "download_name": "kind-porch-03.webp",
+          "title": "Entry-door and siding detail",
+          "note": "The green is on the siding; the door is dark.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-100.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "07eaa763d8b005e9ce8ec4e3ae0d6533214c12853ed427d265da5f0aadc59477"
+        },
+        {
+          "id": "kind-porch-04",
+          "file": "photos/kind-porch-04.webp",
+          "download_name": "kind-porch-04.webp",
+          "title": "Porch seating and siding",
+          "note": "A close view of siding in porch shade.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-98.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "66649b6fc52d260b832a33672164862b8cde26b524bc3442c45dead3f2463272"
+        },
+        {
+          "id": "kind-porch-05",
+          "file": "photos/kind-porch-05.webp",
+          "download_name": "kind-porch-05.webp",
+          "title": "Detached garage",
+          "note": "Associated garage photo in the same credited reference set; not an additional house.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-99.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "d63d57d16cb7fea9ad51c6d7a193d04e3d9139ee99b27e038384c18de5d67713"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "kind-vertical",
+      "title": "Vertical siding and brick · front and painting detail",
+      "category": "attributed",
+      "credit": "@kindhomesolutions, credited by PLAN Home",
+      "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "evidence": "PLAN Home attributes both real photographs to Dried Thyme and credits @kindhomesolutions. The finished front has brick lower walls, a white garage door and dark trim. The second photograph is a masked-window siding detail; the reference page does not separately identify its address, so its association with this exact house is not independently established.",
+      "palette": "Vertical siding attributed to Dried Thyme · Other paint names unverified",
+      "photos": [
+        {
+          "id": "kind-vertical-01",
+          "file": "photos/kind-vertical-01.webp",
+          "download_name": "kind-vertical-01.webp",
+          "title": "Front elevation with brick lower walls",
+          "note": "Finished-looking front view from the driveway.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-53.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "3d73d314781f06500027f08a1e3683abea9a1a9b9bd45c79fe7fd4b26100dae7"
+        },
+        {
+          "id": "kind-vertical-02",
+          "file": "photos/kind-vertical-02.webp",
+          "download_name": "kind-vertical-02.webp",
+          "title": "Siding during painting",
+          "note": "Painted siding with masking still in place; exact project association unverified.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-57.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "db20ecbbc1332b6acca54ab1c6e8c4dfcdbd8db394a94dbc864e9b40beb77b63"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "jaxmom",
+      "title": "New construction · wooded site",
+      "category": "attributed",
+      "credit": "@jaxmom505, credited by PLAN Home",
+      "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "evidence": "PLAN Home identifies this construction-stage exterior as Dried Thyme and credits @jaxmom505. The original owner or builder statement was not recovered. The same image circulates on Pinterest.",
+      "palette": "Body attributed to Dried Thyme · Other finishes unverified",
+      "photos": [
+        {
+          "id": "jaxmom-01",
+          "file": "photos/jaxmom-01.webp",
+          "download_name": "jaxmom-01.webp",
+          "title": "Painted exterior before construction completion",
+          "note": "Open garage, tools, construction materials and unfinished landscaping remain.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-26.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "367d6c05400e35fc2fe20c8d672a9bd359cf715a5cf0c68b892b883951bf10e6"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "morris-bungalow",
+      "title": "Bungalow with white porch and mature planting",
+      "category": "attributed",
+      "credit": "The Morris Mansion · image credited there to Sherwin-Williams",
+      "source": "https://themorrismansionblog.com/dried-thyme-sherwin-williams-paint-review/",
+      "evidence": "The Morris Mansion uses this real bungalow photograph as its Dried Thyme exterior example and credits Sherwin-Williams. The credit links to the general color page rather than a recoverable owner statement for this exact house. It therefore remains a secondary attribution.",
+      "palette": "Body attributed to Dried Thyme · White trim paint name unverified",
+      "photos": [
+        {
+          "id": "morris-bungalow-01",
+          "file": "photos/morris-bungalow-01.jpg",
+          "download_name": "morris-bungalow-01.jpg",
+          "title": "Bungalow front and side corner",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://themorrismansionblog.com/wp-content/uploads/2025/09/exterior-house-painted-sherwin-williams-dried-thyme.jpg",
+          "source": "https://themorrismansionblog.com/dried-thyme-sherwin-williams-paint-review/",
+          "sha256": "65fe782d7304c281e8f9c328b5161d8c15a73172b0539e70e104a00412d8d386"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "spruced",
+      "title": "Covered porch · green lap siding",
+      "category": "attributed",
+      "credit": "@sprucedandcohomestyling, credited by Paint Color Consultants",
+      "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+      "evidence": "The reference database labels this exterior photograph Dried Thyme and credits @sprucedandcohomestyling. The original caption was not recovered. This is a close view of house siding under a covered porch, not a full elevation.",
+      "palette": "Siding attributed to Dried Thyme · Other finishes unverified",
+      "photos": [
+        {
+          "id": "spruced-01",
+          "file": "photos/spruced-01.jpg",
+          "download_name": "spruced-01.jpg",
+          "title": "Porch seating against the siding",
+          "note": "The green siding occupies the right edge of this shaded porch composition.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-dried-thyme/photo-1745952608.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+          "sha256": "09b87b422df1f068b20f407a24e055989534987d240b9b05ce5f6352c870719b"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "greywolf",
+      "title": "Porch floor and steps · four original views",
+      "category": "accents",
+      "credit": "Grey Wolf Painting · original April 14, 2021 Instagram carousel",
+      "source": "https://www.instagram.com/p/CNqKvjGhC-M/",
+      "evidence": "The painter’s original public post explicitly names SW Dried Thyme on the deck. All four photographs from the carousel are included, using the original Instagram downloads. The three lower-resolution copies on PLAN Home are not counted again.",
+      "palette": "Porch floor, stair treads and green base surfaces: Dried Thyme · White siding and dark posts are other colors",
+      "photos": [
+        {
+          "id": "greywolf-01",
+          "file": "photos/greywolf-01.jpg",
+          "download_name": "greywolf-01.jpg",
+          "title": "Entry-door porch floor",
+          "note": "Original contractor photograph; Dried Thyme is on the porch surfaces.",
+          "original_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/655074689_18333600901171094_1491303375727626299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MjU1MTg5OTM4MjU2ODIzMjExMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CDJU50mBrYAQ7kNvwHAudYU&_nc_oc=AdrzlS16_4xNpPzGzpVdrqmUN1EcZ1VIC3AYGgbB7XdoonmqSuWgEVvJ7LZi1w0CB5uNs69FIqYRyA0imUWnnSaE&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=zRDMF5gyjc2Bvl_ukieACg&_nc_ss=7b689&oh=00_AQPSIvy5vSgesT3jxE1HuEk6YnqOgNZbyLwCbCBck84Kww&oe=6ACF5CEE",
+          "source": "https://www.instagram.com/p/CNqKvjGhC-M/",
+          "sha256": "efdc5f1ef277234762e1c5e13fdd9310ee3c45bff66a001c28880b9d0ba36168"
+        },
+        {
+          "id": "greywolf-02",
+          "file": "photos/greywolf-02.jpg",
+          "download_name": "greywolf-02.jpg",
+          "title": "Low view along the porch floor",
+          "note": "Original contractor photograph; Dried Thyme is on the porch surfaces.",
+          "original_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/645518504_18036553592566266_6853203465286753795_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MjU1MTg5OTM4MjU0MzE4MjcxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Qy1XzPPsG-QQ7kNvwHrjOLo&_nc_oc=AdrhOz0jMU6hSSroBQJ_ANoLx3EXQ4FpIv2I61XYhYF_uCBXrY4xqf1vly1dDQvkGBrJlNf1jN8Y875cdX2-LsUf&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=zRDMF5gyjc2Bvl_ukieACg&_nc_ss=7b689&oh=00_AQOvkUZn2pA1wskSIEDa-8L4B8VOOKNIH4hYDyDTqcnJnw&oe=6ACF5592",
+          "source": "https://www.instagram.com/p/CNqKvjGhC-M/",
+          "sha256": "d72c0eca912f4ee6847ace602c211358875918dc866c1cf31730d36a07fe9ff1"
+        },
+        {
+          "id": "greywolf-03",
+          "file": "photos/greywolf-03.jpg",
+          "download_name": "greywolf-03.jpg",
+          "title": "Steps and porch from the side",
+          "note": "Original contractor photograph; Dried Thyme is on the porch surfaces.",
+          "original_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/654003662_18115566220654583_6613297893154854018_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MjU1MTg5OTM4MjU4NDk5ODcwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FWb2yfM5juAQ7kNvwFF7h8E&_nc_oc=AdogRLmFeqU6OBc4wX3OQn0Z_c4SKsdBF320YaHECqgpYlamsH5QDXclL6yLRbtczREQW4SeLo6cszZAWvTSBTNC&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=zRDMF5gyjc2Bvl_ukieACg&_nc_ss=7b689&oh=00_AQMuCnxoEYPKDcZofRQxaoYQcC2sGgHXDT_YA3mwKY55Hw&oe=6ACF634F",
+          "source": "https://www.instagram.com/p/CNqKvjGhC-M/",
+          "sha256": "e23689e393d1ff6603b48e7fe13e024f6aaf0f62cd3b994c8a8fd617cd64616d"
+        },
+        {
+          "id": "greywolf-04",
+          "file": "photos/greywolf-04.jpg",
+          "download_name": "greywolf-04.jpg",
+          "title": "Front steps and porch",
+          "note": "Original contractor photograph; Dried Thyme is on the porch surfaces.",
+          "original_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/651826395_18122335870593482_1497439164904660612_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MjU1MTg5OTM4MjU1MTQyNjg1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=NaY0FNSNBQEQ7kNvwElrkVg&_nc_oc=Adps2VKXyO481hkKIHmG895_R25zQy-eU0xnwsKDmlcot_LT74EPIzSmbAj_uPQke-Oax_RdVW1jgLMc8PnkbwJw&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=zRDMF5gyjc2Bvl_ukieACg&_nc_ss=7b689&oh=00_AQMTbxNYy_LQaY0gFnQj0butb_wi3sKPdVXUqaoQbaoJdQ&oe=6ACF4ADA",
+          "source": "https://www.instagram.com/p/CNqKvjGhC-M/",
+          "sha256": "6d287769ffa7d9389e6d7e34daa72609222d9de3caefce3a820a40d2bc8d7439"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Published reference with original post credit",
+          "url": "https://www.livingetc.com/advice/how-to-decorate-with-sherwin-williams-dried-thyme"
+        }
+      ]
+    },
+    {
+      "id": "omaha",
+      "title": "Historic house · Omaha, Nebraska",
+      "category": "accents",
+      "credit": "CertaPro Painters of Omaha",
+      "source": "https://certapro.com/omaha/residential-painting/case-studies/historic-home-painting-in-omaha-ne/",
+      "evidence": "The painter’s historic-home case study specifies Clary Sage SW 6178 as the main body, white trim, and Dried Thyme SW 6186 for accent details. All three after photographs are included. The large green wall surfaces should not be read as Dried Thyme.",
+      "palette": "Accent details: Dried Thyme SW 6186 · Main body: Clary Sage SW 6178 · Trim: white, exact name unspecified",
+      "photos": [
+        {
+          "id": "omaha-01",
+          "file": "photos/omaha-01.jpg",
+          "download_name": "omaha-01.jpg",
+          "title": "Full front and porch",
+          "note": "Dried Thyme is limited to architectural accents; the main body is Clary Sage.",
+          "original_url": "https://media.certapro.com/uploads/wpthumb/2410903599.jpg",
+          "source": "https://certapro.com/omaha/residential-painting/case-studies/historic-home-painting-in-omaha-ne/",
+          "sha256": "6d91491fe4492bd6e10b36752af943009d063308334dc0c28e1d4f2b4c749b29"
+        },
+        {
+          "id": "omaha-02",
+          "file": "photos/omaha-02.jpg",
+          "download_name": "omaha-02.jpg",
+          "title": "Porch corner and decorative trim",
+          "note": "Dried Thyme is limited to architectural accents; the main body is Clary Sage.",
+          "original_url": "https://media.certapro.com/uploads/wpthumb/870575604.jpg",
+          "source": "https://certapro.com/omaha/residential-painting/case-studies/historic-home-painting-in-omaha-ne/",
+          "sha256": "8e092fa56613dc1d7f2eecd8e64abb66da37c6f9d066db767be8ea841858f6e4"
+        },
+        {
+          "id": "omaha-03",
+          "file": "photos/omaha-03.jpg",
+          "download_name": "omaha-03.jpg",
+          "title": "Side elevation and bay",
+          "note": "Dried Thyme is limited to architectural accents; the main body is Clary Sage.",
+          "original_url": "https://media.certapro.com/uploads/wpthumb/286865670.jpg",
+          "source": "https://certapro.com/omaha/residential-painting/case-studies/historic-home-painting-in-omaha-ne/",
+          "sha256": "459814d1fa6b36dea89becd9379b2b8d3e930e575b3978aec5ccb291e8955f8f"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "jpaints",
+      "title": "Victorian repaint · porch skirting",
+      "category": "accents",
+      "credit": "jpaints · Houzz homeowner",
+      "source": "https://www.houzz.com/discussions/6444927/exterior-colors-keep-the-yellow-or-go-neutral",
+      "evidence": "In the completed-project update, the homeowner identifies Dried Thyme on the skirting, Escape Gray on the siding, Pure White on the trim and Moody Blue on the door. Both finished-house photographs are included. These also appear in the earlier Moody Blue collection because the same house uses both paints on different surfaces.",
+      "palette": "Skirting: Dried Thyme · Siding: Escape Gray · Trim: Pure White · Door: Moody Blue",
+      "photos": [
+        {
+          "id": "jpaints-01",
+          "file": "photos/jpaints-01.jpg",
+          "download_name": "jpaints-01.jpg",
+          "title": "Finished front and porch base",
+          "note": "Dried Thyme appears around the porch base; most of the house is Escape Gray.",
+          "original_url": "https://st.hzcdn.com/simgs/5ad2ef48066f3ede_9-6667/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6444927/exterior-colors-keep-the-yellow-or-go-neutral",
+          "sha256": "13168b84c5358c50a3c5fef88e91826395673d0bf6b374ad2525eee671943d5f"
+        },
+        {
+          "id": "jpaints-02",
+          "file": "photos/jpaints-02.jpg",
+          "download_name": "jpaints-02.jpg",
+          "title": "Finished side and front corner",
+          "note": "Dried Thyme appears around the porch base; most of the house is Escape Gray.",
+          "original_url": "https://st.hzcdn.com/simgs/5682f7eb066f3ee0_9-6668/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6444927/exterior-colors-keep-the-yellow-or-go-neutral",
+          "sha256": "2032a4aca121a2b6bd4e8b829642068bda16e6db56e83ee9747438a739844b31"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "ashrunkle",
+      "title": "Oval-glass front door · brick entry",
+      "category": "accents",
+      "credit": "@ashrunkle, credited by PLAN Home",
+      "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "evidence": "PLAN Home attributes the green front door to Dried Thyme and credits @ashrunkle. The original owner caption was not recovered, so this is a secondary attribution.",
+      "palette": "Front door attributed to Dried Thyme · Existing brick exterior",
+      "photos": [
+        {
+          "id": "ashrunkle-01",
+          "file": "photos/ashrunkle-01.webp",
+          "download_name": "ashrunkle-01.webp",
+          "title": "Front door and sidelight",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-93_HwLpEB6.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "5cf953bfb2d2db8552d718956cc1ea6093d1d0859125011532630f7fb7c02760"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "groenstead",
+      "title": "White porch · two seasonal door photographs",
+      "category": "accents",
+      "credit": "@thegroenstead · PLAN Home and Paint Color Consultants",
+      "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "evidence": "Both reference sites identify the door as Dried Thyme and credit @thegroenstead. These are two different seasonal compositions of the same entry, not two houses. The original homeowner caption was not recovered; attribution is secondary.",
+      "palette": "Door attributed to Dried Thyme · White siding and trim names unverified",
+      "photos": [
+        {
+          "id": "groenstead-01",
+          "file": "photos/groenstead-01.webp",
+          "download_name": "groenstead-01.webp",
+          "title": "Autumn wreath and porch decorations",
+          "note": "Seasonal view of the same door.",
+          "original_url": "https://plan-home.com/uploads/color_image/dried-thyme-sw-6186-9.webp",
+          "source": "https://plan-home.com/color/dried-thyme-sw-6186",
+          "sha256": "55ddd11f9cbf355714ba09f8e434dc563b5f1b2811bbfcec2d1f3106708f951f"
+        },
+        {
+          "id": "groenstead-02",
+          "file": "photos/groenstead-02.jpg",
+          "download_name": "groenstead-02.jpg",
+          "title": "Green wreath and summer plants",
+          "note": "Seasonal view of the same door.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-dried-thyme/photo-1745952592.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+          "sha256": "d3d4c7deb0f8aadee08844c63db5283b60cf6be9800267f67b8f53a9b8c8294d"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "nicks",
+      "title": "Arched window · green trim and railings",
+      "category": "accents",
+      "credit": "@nickspaintingca, credited by Paint Color Consultants",
+      "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+      "evidence": "The color database labels this real exterior photograph Dried Thyme and credits @nickspaintingca. The green is on the trim, fascia and railing; the siding is a different light color. The painter’s original caption was not recovered, so the attribution is secondary.",
+      "palette": "Green trim and railing attributed to Dried Thyme · Light siding color unverified",
+      "photos": [
+        {
+          "id": "nicks-01",
+          "file": "photos/nicks-01.jpg",
+          "download_name": "nicks-01.jpg",
+          "title": "Arched window trim and porch railing",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-dried-thyme/photo-1745952696.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+          "sha256": "78906ec83057e1dfc639083a766d143cbfef7cadd555ad97f31151987deb16c8"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "sliabh",
+      "title": "Decorative porch shingles · work in progress",
+      "category": "accents",
+      "credit": "@sliabh_view_cottage, credited by Paint Color Consultants",
+      "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+      "evidence": "The database attributes the green porch shingles in this real restoration photograph to Dried Thyme. The original caption was not recovered. Unfinished trim and debris remain; this is an in-progress detail, not a completed whole-house paint scheme.",
+      "palette": "Porch shingles attributed to Dried Thyme · Main siding is a different color",
+      "photos": [
+        {
+          "id": "sliabh-01",
+          "file": "photos/sliabh-01.jpg",
+          "download_name": "sliabh-01.jpg",
+          "title": "Painted decorative shingles on porch base",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-dried-thyme/photo-1745952699.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+          "sha256": "a82694307bac3cb94aec1289860b02f3960b940de843fbcbf9acefefb62b48db"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "stevens",
+      "title": "Brick home · green shutters",
+      "category": "accents",
+      "credit": "@stevensminifarm, credited by Paint Color Consultants",
+      "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+      "evidence": "The reference site identifies this exterior photograph as Dried Thyme and credits @stevensminifarm. The visibly green surfaces are the shutters. The original homeowner statement and a complete palette were not recovered; the shutter attribution is secondary.",
+      "palette": "Shutters attributed to Dried Thyme · Brick and darker gable siding use other finishes",
+      "photos": [
+        {
+          "id": "stevens-01",
+          "file": "photos/stevens-01.jpg",
+          "download_name": "stevens-01.jpg",
+          "title": "Brick front with green shutters",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-dried-thyme/photo-1745952724.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+          "sha256": "3d1f6b47669371377f3688892c5f3ed823be4e19a65629ae5bd7690ab06d29e0"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "townhall-unverified",
+      "title": "Unverified lead · Town Hall Parade Craftsman",
+      "category": "uncertain",
+      "credit": "Minnetonka Custom Homes, Inc. · Houzz photograph; Pinterest color claim",
+      "source": "https://www.houzz.com/discussions/243484/what-is-the-paint-color-thank-you-in-advance",
+      "evidence": "Pinterest labels this photo Dried Thyme, but the original Houzz discussions do not confirm that paint. The featured comment only says it looks like the commenter’s own Dried Thyme house. That is resemblance, not evidence about the pictured project. Kept as a clearly marked research lead, outside the 39-photo main collection.",
+      "palette": "Paint color NOT verified · Do not treat as a documented Dried Thyme application",
+      "photos": [
+        {
+          "id": "townhall-unverified-01",
+          "file": "photos/townhall-unverified-01.jpg",
+          "download_name": "townhall-unverified-01.jpg",
+          "title": "Original Craftsman photograph — unverified color",
+          "note": "Real house photograph, but the Dried Thyme claim is unsubstantiated.",
+          "original_url": "https://st.hzcdn.com/simgs/14512d110f04697d_14-8334/photo.jpg",
+          "source": "https://www.houzz.com/photo/441399-town-hall-parade-craftsman-exterior-minneapolis",
+          "sha256": "d5dc5b1d931a68f60d9e2dff710a1a9ecc4d06ada29ad0038bf1ac13809cd7be"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Pinterest claim",
+          "url": "https://www.pinterest.com/pin/575334921147397561/"
+        },
+        {
+          "label": "Original photo",
+          "url": "https://www.houzz.com/photo/441399-town-hall-parade-craftsman-exterior-minneapolis"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "title": "Confirmed homeowner statement, photo not recovered: “Update: we went with green”",
+      "url": "https://www.reddit.com/r/ExteriorDesign/comments/1wzk92w/update_we_went_with_green/",
+      "reason": "The owner identifies Dried Thyme body, Rosemary trim and Iron Ore doors in a completed-project update. The public text was readable through search, but the image could not be retrieved and browser access was blocked. This remains a useful additional lead outside the saved-photo counts."
+    },
+    {
+      "title": "360 Painting of Wichita: additional documented accent project",
+      "url": "https://www.linkedin.com/posts/360paintingwichita_exteriormakeover-beforeandafter-wichitahomes-activity-7458307963942879232-JDqU",
+      "reason": "The contractor specifies Balanced Beige siding, Creamy trim and Dried Thyme accents. The accessible public post did not expose a recoverable still photograph of that project. A separate company-feed post mentions Dried Thyme doors with Evergreen Fog and Urbane Bronze; neither is counted as a saved photo."
+    },
+    {
+      "title": "Texas project: seventh image is a ceiling detail",
+      "url": "https://www.houzz.com/photos/north-houston-spring-texas-lp-smartside-siding-job-traditional-phvw-vp~40089248",
+      "reason": "All seven project images were reviewed. Six show the specified Dried Thyme siding and are included. The remaining image mainly shows a porch ceiling; its precise paint color is not separately specified, so it is linked here rather than counted as a body-color reference."
+    },
+    {
+      "title": "Greenhouse construction photo, not a house exterior",
+      "url": "https://paintcolorconsultants.com/database/sw-dried-thyme",
+      "reason": "The photograph credited to @veronica_0316 shows a small garden greenhouse under construction. It is outside the house scope. The database’s interior rooms and artificial-light simulations are also omitted."
+    },
+    {
+      "title": "Brick&batten concepts and their Pinterest copies",
+      "url": "https://www.brickandbatten.com/dried-thyme-sherwin-williams/",
+      "reason": "These are digital exterior designs. The realistic images and their reposts do not document paint actually applied to a house, so none are included."
+    },
+    {
+      "title": "Textbook Painting: similar Lakewood house",
+      "url": "https://www.textbookpainting.com/lakewood-house-painted-on-edwards-ave",
+      "reason": "The Berea article says its colors remind the painter of this older project, but the linked Lakewood page does not identify Dried Thyme. Similarity alone does not establish the color."
+    },
+    {
+      "title": "Proposed paint, drawings and recoloring discussions",
+      "url": "https://www.houzz.com/discussions/5932828/different-trim-color-around-windows",
+      "reason": "This owner names Dried Thyme for a planned house, but the attached images are drawings and mockups. Other Houzz and Reddit suggestion threads similarly do not prove a completed paint application."
+    },
+    {
+      "title": "Pontata reposts and an untraceable additional image",
+      "url": "https://pontata.com/color/sw-dried-thyme",
+      "reason": "The identifiable exterior photos repeat PLAN Home compositions. A further generic close exterior image had no recoverable original project or convincing documentation of actual paint, so it is omitted."
+    },
+    {
+      "title": "Swatches, palette diagrams and unrelated paint brands",
+      "url": "https://www.macfarlandpainting.com/paint-color-trends-2025/",
+      "reason": "The Dried Thyme illustration here is a palette strip. Color chips, manufacturer option catalogs, HOA schedules and architectural specifications are not photographs of completed paint jobs. Behr Dried Thyme ICC-57 is a different paint and is excluded."
+    },
+    {
+      "title": "Duplicate sizes, crops and before photographs",
+      "url": "https://www.textbookpainting.com/house-painters-in-berea-bring-a-bold-transformation/",
+      "reason": "Removed repeated compositions from Pinterest, PLAN Home and Pontata, the tight crop of the Berea front photo, the repeated Stone Painting image, Hilltop before photos, and Berea white/red before photos. Different viewpoints, seasonal images and explicitly labeled work stages remain."
+    },
+    {
+      "title": "Limits of public social attribution",
+      "url": "https://plan-home.com/color/dried-thyme-sw-6186",
+      "reason": "Several real photos have a credited social account and a clear published color label, but their original owner or painter caption was not recovered. They remain secondary attributions; the gallery does not promote them to source-confirmed projects."
+    }
+  ],
+  "counts": {
+    "confirmed": 13,
+    "attributed": 11,
+    "accents": 15,
+    "uncertain": 1
+  },
+  "main_photo_count": 39,
+  "unverified_lead_count": 1,
+  "methodology": "Searched public text and image results with Dried Thyme, Sherwin-Williams, SW 6186/SW6186, exterior, siding, stucco, house, painting, before/after, homeowner, porch, door and shutter terms. Checked contractor portfolios, homeowner discussions, public social captions and carousels, Houzz project albums and paint answers, manufacturer posts, Pinterest, design articles and reference databases. Expanded the 25-photo Paint Color Consultants gallery and reviewed all seven Texas project views and all four original Grey Wolf carousel photographs. Visually inspected retained photographs and removed known duplicate files, crops and reposts. A source-confirmed label means an original project professional or owner names the paint; it is not laboratory verification of paint or camera color. Secondary body attributions and exterior accents have separate categories. One unverified Craftsman lead is outside the 39-photo main count. Some photos show only a detail, shade, partial obstruction or an unfinished work stage, as labeled. Source groups are not a census of unique houses, and image counts are not house counts. No recoloring or AI-generated images were introduced. This is a thorough public-web collection, not a guarantee of every photograph ever posted. Private, deleted, unindexed, login-restricted or inaccessible material may contain additional images."
+}

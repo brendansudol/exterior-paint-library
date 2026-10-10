@@ -1,0 +1,17 @@
+RETREAT SW 6207 — REAL EXTERIOR PHOTO COLLECTION
+
+Open retreat-exterior-photos.html in a browser with the photos folder beside it.
+The separate retreat-portable-gallery.html embeds every image and works as one offline file.
+
+31 source-confirmed body-color image assets across 9 projects.
+17 additional exterior photos with secondary color attribution.
+1 source-confirmed fascia example, a camera still of a real renovation.
+2 unresolved leads, outside the confirmed and attributed counts.
+Total: 51 image assets, not 51 houses.
+
+The confirmed set includes clearly labeled construction and painting stages, two later door-maintenance photos showing the existing siding, and one original two-photo composite counted as one image asset. The main house and matching studio at Mill Pond are one project.
+
+Photos retain the downloaded bytes; no recoloring or AI images were introduced. sources.json contains per-image source pages, original image URLs, credit, evidence and SHA-256 checksums. Social asset URLs can expire; original post links remain recorded.
+
+Research date: October 9, 2026. Thorough public-web collection, not a guarantee of every photo ever posted. Private, deleted, unindexed and inaccessible photographs may exist. Uncertain labels and access limits are explained in the gallery.
+Photographs remain the property of their creators; no reuse license is granted.

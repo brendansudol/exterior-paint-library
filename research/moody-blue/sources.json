@@ -1,0 +1,509 @@
+{
+  "title": "Moody Blue SW 6221 — real exterior photo collection",
+  "research_date": "2026-10-09",
+  "groups": [
+    {
+      "id": "grant-park",
+      "title": "Grant Park historic renovation · Atlanta",
+      "category": "confirmed",
+      "credit": "Urban Purpose Design · Houzz",
+      "source": "https://www.houzz.com/photos/grant-park-historic-renovation-traditional-exterior-atlanta-phvw-vp~87692943",
+      "evidence": "The project professional explicitly specifies Moody Blue SW 6221 for the siding, Riverway for the accents and Downy for the trim. Four distinct real exterior photographs from the same renovation are retained.",
+      "palette": "Siding: Moody Blue SW 6221 · Accents: Riverway SW 6222 · Trim: Downy SW 7002",
+      "photos": [
+        {
+          "id": "grant-park-01",
+          "file": "photos/grant-park-01.jpg",
+          "download_name": "grant-park-01.jpg",
+          "title": "Full front and porch",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/e7e1f0a108c6b08a_14-4620/photo.jpg",
+          "source": "https://www.houzz.com/photos/grant-park-historic-renovation-traditional-exterior-atlanta-phvw-vp~87692943",
+          "sha256": "61734eb18ec1112e0a9f4e573a4aed4784e6b8c4e13feaa26ef45d14b42ca9f8"
+        },
+        {
+          "id": "grant-park-02",
+          "file": "photos/grant-park-02.jpg",
+          "download_name": "grant-park-02.jpg",
+          "title": "Side elevation and yard",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/aca19ba708c6b09d_14-4620/photo.jpg",
+          "source": "https://www.houzz.com/photos/grant-park-historic-renovation-traditional-exterior-atlanta-phvw-vp~87692958",
+          "sha256": "c92f512d4e008e0cd6bbd9143392f133fad47c9d4d45e55a2cae839b727004f1"
+        },
+        {
+          "id": "grant-park-03",
+          "file": "photos/grant-park-03.jpg",
+          "download_name": "grant-park-03.jpg",
+          "title": "Closer front elevation",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/67a15b0708c6b0a3_14-4974/photo.jpg",
+          "source": "https://www.houzz.com/photos/grant-park-historic-renovation-traditional-exterior-atlanta-phvw-vp~87692967",
+          "sha256": "a1e69bb3152cc4d8a51b63d628033dfdf6d430fa12fba2ed10b7c50e7b31c074"
+        },
+        {
+          "id": "grant-park-04",
+          "file": "photos/grant-park-04.jpg",
+          "download_name": "grant-park-04.jpg",
+          "title": "Porch and side detail",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/d1b190c108c6b094_14-4975/photo.jpg",
+          "source": "https://www.houzz.com/photos/grant-park-historic-renovation-traditional-exterior-atlanta-phvw-vp~87692951",
+          "sha256": "ada378d36ca9a63eb3fcc63525caf5891e9400fd9784b7cf9a231fa3b557b1a6"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "ftcrawford",
+      "title": "Homeowner repaint · stone accents and attached garage",
+      "category": "confirmed",
+      "credit": "ftcrawford · Houzz homeowner",
+      "source": "https://www.houzz.com/discussions/6302719/suggestions-for-a-too-blue-house",
+      "evidence": "The homeowner says the house has just been painted Sherwin-Williams Moody Blue and asks for advice because it looks brighter than expected. All four photographs attached to the original August 2022 post are included; other commenters’ examples are excluded.",
+      "palette": "Painted exterior body: Moody Blue · Trim paint name not supplied · Existing stone accents",
+      "photos": [
+        {
+          "id": "ftcrawford-01",
+          "file": "photos/ftcrawford-01.jpg",
+          "download_name": "ftcrawford-01.jpg",
+          "title": "Front elevation and stonework",
+          "note": "The owner’s completed paint job, photographed in outdoor light.",
+          "original_url": "https://st.hzcdn.com/simgs/8fa2c60b03154dcc_9-0563/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6302719/suggestions-for-a-too-blue-house",
+          "sha256": "1221ada5f739939dd68eef02f539b5f814accb6d5435df82ce9221754209a59a"
+        },
+        {
+          "id": "ftcrawford-02",
+          "file": "photos/ftcrawford-02.jpg",
+          "download_name": "ftcrawford-02.jpg",
+          "title": "Garage corner",
+          "note": "Different corner view of the same completed house.",
+          "original_url": "https://st.hzcdn.com/simgs/cf62eff603154dcb_9-0559/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6302719/suggestions-for-a-too-blue-house",
+          "sha256": "95114d248856695f5f16c4b12c4b07bf0973f3b0d411cdfcff5b9b116f0f362f"
+        },
+        {
+          "id": "ftcrawford-03",
+          "file": "photos/ftcrawford-03.jpg",
+          "download_name": "ftcrawford-03.jpg",
+          "title": "Long garage elevation",
+          "note": "Direct light makes the blue especially apparent.",
+          "original_url": "https://st.hzcdn.com/simgs/7362d8b403154dcb_9-0555/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6302719/suggestions-for-a-too-blue-house",
+          "sha256": "2e6ae0fc7b34db486baa8b38120fd5011fc92f499f26ebe106e5aece7a52600f"
+        },
+        {
+          "id": "ftcrawford-04",
+          "file": "photos/ftcrawford-04.jpg",
+          "download_name": "ftcrawford-04.jpg",
+          "title": "Rear deck and side",
+          "note": "Rear view with existing deck and different lighting.",
+          "original_url": "https://st.hzcdn.com/simgs/a8a2f98003154dcc_9-0566/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6302719/suggestions-for-a-too-blue-house",
+          "sha256": "89ae0d72910edc6d9b9fbf3d36e3bbd02e66e2cbefc0eb889c020b3a36960e7c"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "paint-pals",
+      "title": "Colorado bungalow · winter sunlight",
+      "category": "confirmed",
+      "credit": "Paint Pals",
+      "source": "https://www.thepaintpals.com/paint-color-visualizer/",
+      "evidence": "The contractor’s gallery names Moody Blue SW 6221 as the body color and Egg White SW 6364 as the trim. Although the page is called a paint color visualizer, it explicitly describes its gallery as real homes the company painted.",
+      "palette": "Body: Moody Blue SW 6221 · Trim: Egg White SW 6364",
+      "photos": [
+        {
+          "id": "paint-pals-01",
+          "file": "photos/paint-pals-01.jpg",
+          "download_name": "paint-pals-01.jpg",
+          "title": "Front and garage",
+          "note": "Strong sunlight, leafless-tree shadows and reflected light affect the apparent color.",
+          "original_url": "https://www.thepaintpals.com/wp-content/uploads/2025/08/Lt-Blue-Body-White-Accent.jpg",
+          "source": "https://www.thepaintpals.com/paint-color-visualizer/",
+          "sha256": "9adabc6a5ee16b4335c739653b29e4c4d791a6f95073fca9ad64e3552ebda4f1"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "lauren",
+      "title": "Gabled house · sunny side and front corner",
+      "category": "attributed",
+      "credit": "@lauren_harrell_design · Paint Color Consultants and PLAN Home",
+      "source": "https://paintcolorconsultants.com/database/sw-moody-blue",
+      "evidence": "Both color-reference sites attribute this real exterior photograph to Moody Blue and credit @lauren_harrell_design. The larger Paint Color Consultants copy is used. The identical PLAN Home image and Pinterest repost are not counted again; the designer’s original paint statement was not recovered.",
+      "palette": "Siding attributed to Moody Blue · Other paint colors not verified",
+      "photos": [
+        {
+          "id": "lauren-01",
+          "file": "photos/lauren-01.jpg",
+          "download_name": "lauren-01.jpg",
+          "title": "Gables, siding and lawn",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-moody-blue/photo-1748554396.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-moody-blue",
+          "sha256": "8f094e353bc7cca4f68e8011b66f50d3bda2e83b00f14a5096965435e08747f7"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Second published attribution",
+          "url": "https://plan-home.com/color/moody-blue-sw-6221"
+        }
+      ]
+    },
+    {
+      "id": "humble",
+      "title": "Autumn Victorian · dusk and porch lights",
+      "category": "attributed",
+      "credit": "The Humble Homestead · public repost",
+      "source": "https://www.facebook.com/100063595627758/posts/look-at-this-adorable-house-they-used-one-of-my-favorite-colors-sherwin-williams/826953726101141/",
+      "evidence": "The public October 29, 2023 post identifies the house color as Sherwin-Williams Moody Blue. It does not identify the original homeowner or painter, so this remains a secondary attribution.",
+      "palette": "Body attributed to Moody Blue · Trim color not supplied",
+      "photos": [
+        {
+          "id": "humble-01",
+          "file": "photos/humble-01.jpg",
+          "download_name": "humble-01.jpg",
+          "title": "Full front with autumn porch decorations",
+          "note": "Dusk, warm porch lights and possible camera processing strongly affect color. Original repost image retained.",
+          "original_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/487509873_1217122893750887_6290520434763166113_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1284x1695&ctp=s1284x1695&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=7orYT0gpm_IQ7kNvwF7Ta9l&_nc_oc=AdqlRpEvMdCctme2uJon0ZeYUeQs0DeVckig64dz2pPqiqXPSkP6uJoSa5Rd3P1_n4mHIrmBk9wyigm0jIuJBfvH&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=qVQXLeAvnM6EXAha5fhuLw&_nc_ss=7b289&oh=00_AQP6cb0BGik4Nm2GZTSWU9EnLUoHHzIKSVxFl_tD-aoTLg&oe=6ACECE72",
+          "source": "https://www.facebook.com/100063595627758/posts/look-at-this-adorable-house-they-used-one-of-my-favorite-colors-sherwin-williams/826953726101141/",
+          "sha256": "725ab36fd8b5d96cda5443a160a5cef3194f80698272eacc08a1979cf8515e11"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "peppercorn",
+      "title": "Oregon house · Moody Blue front door",
+      "category": "accents",
+      "credit": "The Color Concierge · client project",
+      "source": "https://thecolorconcierge.com/sherwin-williams-peppercorn-exterior/",
+      "evidence": "The designers explicitly identify Moody Blue as the front door color of this real Peppercorn exterior project. Two distinct finished photographs are retained. The body, shutters and trim use other colors.",
+      "palette": "Door: Moody Blue · Body: Peppercorn · Trim: City Loft · Shutters: Tricorn Black",
+      "photos": [
+        {
+          "id": "peppercorn-01",
+          "file": "photos/peppercorn-01.webp",
+          "download_name": "peppercorn-01.webp",
+          "title": "Completed house from the corner",
+          "note": "The original publication includes an “After” label. Moody Blue is limited to the door.",
+          "original_url": "https://thecolorconcierge.com/wp-content/uploads/2026/02/After-Peppercorn-Home.png.webp",
+          "source": "https://thecolorconcierge.com/sherwin-williams-peppercorn-exterior/",
+          "sha256": "8b2ec9ec99e58879d75d8ea2d16f55552e12586bb3a15f49068f6dd83ce7ecbd"
+        },
+        {
+          "id": "peppercorn-02",
+          "file": "photos/peppercorn-02.webp",
+          "download_name": "peppercorn-02.webp",
+          "title": "Straight-on front and entry",
+          "note": "Closer context for the door; the dark siding is Peppercorn.",
+          "original_url": "https://thecolorconcierge.com/wp-content/uploads/2026/02/image-3.jpeg.webp",
+          "source": "https://thecolorconcierge.com/sherwin-williams-peppercorn-exterior/",
+          "sha256": "97cdce3a1e3052db19da46b93500161358f42938f1f7df938b671e898db26a0f"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "westpoint",
+      "title": "Deer Creek Village · brick entry, Edmond, Oklahoma",
+      "category": "accents",
+      "credit": "Westpoint Homes · Houzz",
+      "source": "https://www.houzz.com/discussions/3314432/what-color-is-the-front-door",
+      "evidence": "The builder answers the original Houzz paint question and explicitly confirms Sherwin-Williams #6221 Moody Blue on this front door. The same image appears in secondary front-door roundups; those repetitions count once.",
+      "palette": "Front door: Moody Blue SW 6221 · Brick exterior; other finishes not specified",
+      "photos": [
+        {
+          "id": "westpoint-01",
+          "file": "photos/westpoint-01.jpg",
+          "download_name": "westpoint-01.jpg",
+          "title": "Blue door in a covered brick entry",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://st.hzcdn.com/simgs/9cf14d1d04e661e1_9-8242/photo.jpg",
+          "source": "https://www.houzz.com/photos/blue-front-door-traditional-exterior-oklahoma-city-phvw-vp~24586648",
+          "sha256": "a6ab7bdf66aee4ce9e4601687fbb56a85b81393b6eaad6da627be9402589882c"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Original project photograph",
+          "url": "https://www.houzz.com/photos/blue-front-door-traditional-exterior-oklahoma-city-phvw-vp~24586648"
+        }
+      ]
+    },
+    {
+      "id": "ambersand",
+      "title": "Ambersand Residence · shutter application",
+      "category": "accents",
+      "credit": "CEMCO Construction Company · Houzz",
+      "source": "https://www.houzz.com/discussions/3929739/paint",
+      "evidence": "The builder’s original Houzz answer identifies Moody Blue on the shutters. The pale blue body is Tradewind. This front view shows the shutters; the rear, boardwalk and through-window views do not provide useful Moody Blue references and are omitted.",
+      "palette": "Shutters: Moody Blue SW 6221 · Body: Tradewind SW 6218 · Trim: Extra White SW 7006",
+      "photos": [
+        {
+          "id": "ambersand-01",
+          "file": "photos/ambersand-01.jpg",
+          "download_name": "ambersand-01.jpg",
+          "title": "Front elevation and shutters",
+          "note": "Moody Blue is the darker shutter color beside the upper windows, not the large pale blue wall surfaces.",
+          "original_url": "https://st.hzcdn.com/simgs/7411251e069eecd7_9-9017/photo.jpg",
+          "source": "https://www.houzz.com/photos/ambersand-residence-beach-style-exterior-miami-phvw-vp~47015822",
+          "sha256": "7993000ae26bccda26e124ee2d5c01ff6eabc9d850ff19ddadda9cf894e34229"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Original project photograph",
+          "url": "https://www.houzz.com/photos/ambersand-residence-beach-style-exterior-miami-phvw-vp~47015822"
+        }
+      ]
+    },
+    {
+      "id": "wyoming-oregon",
+      "title": "Oregon color consultation · gold exterior",
+      "category": "accents",
+      "credit": "Laura Harmon · Wyoming in Color",
+      "source": "https://www.wyomingincolor.com/blog/color-consult-in-oregon",
+      "evidence": "The consultant’s completed-project post explicitly names Moody Blue for the front door, Humble Gold for the body and Classical Gold for the trim. Only the completed after photograph is retained.",
+      "palette": "Door: Moody Blue SW 6221 · Body: Humble Gold SW 6380 · Trim: Classical Gold SW 2831",
+      "photos": [
+        {
+          "id": "wyoming-oregon-01",
+          "file": "photos/wyoming-oregon-01.jpeg",
+          "download_name": "wyoming-oregon-01.jpeg",
+          "title": "Completed exterior after consultation",
+          "note": "The door is deeply shaded and partly obscured. This is a documented application but a limited color reference.",
+          "original_url": "https://www.wyomingincolor.com/uploads/6/9/4/3/69435515/fullsizeoutput-51c_orig.jpeg",
+          "source": "https://www.wyomingincolor.com/blog/color-consult-in-oregon",
+          "sha256": "dede1570d03f4bba7dc3fdba3028e9f2293edac5b2c04004ac3681c47be6c9a7"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "watercolor",
+      "title": "WaterColor, Florida · garage doors and porch ceilings",
+      "category": "accents",
+      "credit": "Geoff Chick & Associates · photographs by Jack Gardner · One Kindesign",
+      "source": "https://onekindesign.com/dreamy-beach-style-florida/",
+      "evidence": "The published house tour specifies Moody Blue SW 6221 for the garage doors and porch ceilings. Its two exterior photographs are retained; interior photographs are omitted. This is a published palette attribution rather than a separately recovered architect paint schedule.",
+      "palette": "Garage doors and porch ceilings: Moody Blue SW 6221 · Siding: Misty SW 6232 · Trim: SW 7637 · Cedar shingles: Rain SW 6219 mixed into stain",
+      "photos": [
+        {
+          "id": "watercolor-01",
+          "file": "photos/watercolor-01.jpg",
+          "download_name": "watercolor-01.jpg",
+          "title": "Full house and Moody Blue garage doors",
+          "note": "The garage doors are Moody Blue. Most of the visible house siding is Misty.",
+          "original_url": "https://onekindesign.com/wp-content/uploads/2018/01/Beach-Style-Residence-Geoff-Chick-01-1-Kindesign.jpg",
+          "source": "https://onekindesign.com/dreamy-beach-style-florida/",
+          "sha256": "eee21f99d3e2126057f67673177f9b2c4165b371af48a8b9b64bb05ef7309c6c"
+        },
+        {
+          "id": "watercolor-02",
+          "file": "photos/watercolor-02.jpg",
+          "download_name": "watercolor-02.jpg",
+          "title": "Upward exterior and porch detail",
+          "note": "Context view of the same house; only limited porch-ceiling area is visible. The siding and shingle colors are not Moody Blue.",
+          "original_url": "https://onekindesign.com/wp-content/uploads/2018/01/Beach-Style-Residence-Geoff-Chick-16-1-Kindesign.jpg",
+          "source": "https://onekindesign.com/dreamy-beach-style-florida/",
+          "sha256": "3d5b4885911151d3e5482b35e3e04205e79edfb22ab0fe718f39a99401a742ea"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "jpaints",
+      "title": "Victorian repaint · blue door with green-gray siding",
+      "category": "accents",
+      "credit": "jpaints · Houzz homeowner",
+      "source": "https://www.houzz.com/discussions/6444927/exterior-colors-keep-the-yellow-or-go-neutral",
+      "evidence": "In the completed-project update, the homeowner names Moody Blue for the door, Escape Gray for the siding, Pure White for the trim and Dried Thyme for the skirting. Both finished-house photos are included. Larger originals were recovered from the thread’s image viewer.",
+      "palette": "Door: Moody Blue · Siding: Escape Gray · Trim: Pure White · Skirting: Dried Thyme",
+      "photos": [
+        {
+          "id": "jpaints-01",
+          "file": "photos/jpaints-01.jpg",
+          "download_name": "jpaints-01.jpg",
+          "title": "Finished front and porch",
+          "note": "The door is small within the wider house view. The homeowner notes that the camera misrepresents the roof color.",
+          "original_url": "https://st.hzcdn.com/simgs/5ad2ef48066f3ede_9-6667/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6444927/exterior-colors-keep-the-yellow-or-go-neutral",
+          "sha256": "13168b84c5358c50a3c5fef88e91826395673d0bf6b374ad2525eee671943d5f"
+        },
+        {
+          "id": "jpaints-02",
+          "file": "photos/jpaints-02.jpg",
+          "download_name": "jpaints-02.jpg",
+          "title": "Finished side and front corner",
+          "note": "Wider context for the same door application; the house body is Escape Gray.",
+          "original_url": "https://st.hzcdn.com/simgs/5682f7eb066f3ee0_9-6668/home-design.jpg",
+          "source": "https://www.houzz.com/discussions/6444927/exterior-colors-keep-the-yellow-or-go-neutral",
+          "sha256": "2032a4aca121a2b6bd4e8b829642068bda16e6db56e83ee9747438a739844b31"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "karen",
+      "title": "French-country homeowner · shutters and front door",
+      "category": "accents",
+      "credit": "Karen Allen · public French Country Cottage and Farmhouse post",
+      "source": "https://www.facebook.com/groups/french.country.cottage.and.farmhouse/posts/2404857813303956/",
+      "evidence": "The homeowner’s November 29, 2025 public post identifies Moody Blue on the completed shutters and front door. The owner describes a shift between blue in shade and green in sun. The available picture is a nighttime phone screenshot.",
+      "palette": "Shutters and front door: Moody Blue · Body and trim colors not specified",
+      "photos": [
+        {
+          "id": "karen-01",
+          "file": "photos/karen-01.jpg",
+          "download_name": "karen-01.jpg",
+          "title": "Nighttime house with Christmas lights",
+          "note": "Original screenshot, including its black bars. The distant house, darkness and decorative lights make this a weak reference for judging the paint color.",
+          "original_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/591908631_10164773055859363_2945076641936363948_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx947x2048&ctp=s947x2048&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GKHeFjBt6kAQ7kNvwGCy7sl&_nc_oc=AdqAW_Vr-ZrqQ6DD4IJqvDQ7AQuNhblnBXt3GFJu9KLudh72eSSCzrsgM690haePtP89Hk64QBZU9JagFtE3L7s6&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=MVZSaDvGQWNVU4BoLBhfnw&_nc_ss=7b289&oh=00_AQNKwgZYtSzsfpNv1bX4WeOwd5TJfc3L-YBRN9E2JEKBEg&oe=6ACEB088",
+          "source": "https://www.facebook.com/groups/french.country.cottage.and.farmhouse/posts/2404857813303956/",
+          "sha256": "9a9d2054e520a9b1e1c29c154d76803128fe98d94200d630ef08a3d7aea3769b"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "flipchick",
+      "title": "Arched-glass front door · pale siding",
+      "category": "accents",
+      "credit": "@thatflipchick · Paint Color Consultants",
+      "source": "https://paintcolorconsultants.com/database/sw-moody-blue",
+      "evidence": "The reference site labels this exterior door photo Moody Blue and credits @thatflipchick. The original social caption was not independently recovered; this is a secondary color attribution.",
+      "palette": "Door attributed to Moody Blue · Siding and trim names unverified",
+      "photos": [
+        {
+          "id": "flipchick-01",
+          "file": "photos/flipchick-01.jpg",
+          "download_name": "flipchick-01.jpg",
+          "title": "Front door and small covered entry",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-moody-blue/photo-1748554315.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-moody-blue",
+          "sha256": "77331f04386177f2f7912c695d4f17bc5f33c41005b4158be9193b57f6c21634"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "kepittard",
+      "title": "Covered brick patio · glazed exterior door",
+      "category": "accents",
+      "credit": "@kepittard · Paint Color Consultants",
+      "source": "https://paintcolorconsultants.com/database/sw-moody-blue",
+      "evidence": "The reference site labels this exterior door photo Moody Blue and credits @kepittard. The original social caption was not independently recovered; this is a secondary color attribution.",
+      "palette": "Door assembly attributed to Moody Blue · Existing brick",
+      "photos": [
+        {
+          "id": "kepittard-01",
+          "file": "photos/kepittard-01.jpg",
+          "download_name": "kepittard-01.jpg",
+          "title": "Door and sidelight on covered patio",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://paintcolorconsultants.com/photos/sw-moody-blue/photo-1748554399.jpg",
+          "source": "https://paintcolorconsultants.com/database/sw-moody-blue",
+          "sha256": "440b56e9a82459dcb239ba7d4820fd6121745908ff03ca77b004f4830dac3bad"
+        }
+      ],
+      "extra_sources": []
+    },
+    {
+      "id": "laura",
+      "title": "Wreath and white portico · exterior front door",
+      "category": "accents",
+      "credit": "Laura · @laura_elephantjuice · Blacksburg Belle",
+      "source": "https://www.blacksburgbelle.com/sherwin-williams-moody-blue-sw-6221-review/",
+      "evidence": "The paint review identifies this front door as Moody Blue and credits Laura’s original Instagram post. The exterior-facing photo is included; the separate interior-side door photo is excluded. The original caption was not independently recovered, so the color remains a secondary attribution.",
+      "palette": "Front door attributed to Moody Blue · Other paint colors unverified",
+      "photos": [
+        {
+          "id": "laura-01",
+          "file": "photos/laura-01.jpg",
+          "download_name": "laura-01.jpg",
+          "title": "Exterior door with wreath and white portico",
+          "note": "Real exterior photograph. See the project evidence and palette above.",
+          "original_url": "https://www.blacksburgbelle.com/wp-content/uploads/2023/07/Sherwin-Williams-Moody-Blue-SW-6221-8.jpg",
+          "source": "https://www.blacksburgbelle.com/sherwin-williams-moody-blue-sw-6221-review/",
+          "sha256": "470b4db8c4a8fcbbb949cbb52f8ba753aaa405335fe00b66e6456906c93ed874"
+        }
+      ],
+      "extra_sources": [
+        {
+          "label": "Credited original post",
+          "url": "https://www.instagram.com/p/BZzqsI7gkwq/?img_index=4"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "title": "Additional outbuilding: garden shed trim",
+      "url": "https://onekindesign.com/simply-amazing-garden-shed-ideas/",
+      "reason": "The article attributes Moody Blue SW 6221 trim and Mountain Air SW 6224 walls to a GMH Construction garden shed. It is an outbuilding, not a house, so it is linked as a further reference and is outside the house-photo counts."
+    },
+    {
+      "title": "Ambersand: the main body is Tradewind",
+      "url": "https://www.houzz.com/discussions/3929739/paint",
+      "reason": "The original builder’s answer confirms Tradewind siding, Extra White trim and Moody Blue shutters. Only the useful shutter-bearing front view is included. Rear, boardwalk and through-window images are excluded."
+    },
+    {
+      "title": "Unresolved contractor lead: Clemens cottage",
+      "url": "https://nextdoor.com/pages/supreme-construction-llc-macomb-mi/",
+      "reason": "Search results associate a DLux Custom Finishes cottage project with Moody Blue. The accessible business page did not establish which project photographs belong to that statement, so no image was assigned to it."
+    },
+    {
+      "title": "Unverified Mount Pleasant exterior",
+      "url": "https://www.houzz.com/photos/third-mount-pleasant-sc-craftsman-exterior-charleston-phvw-vp~41852531",
+      "reason": "A real house appeared in broad Houzz results, but the available listing did not establish Moody Blue as its paint. Search-result proximity and visual resemblance are insufficient."
+    },
+    {
+      "title": "“Moody blue” digital design examples",
+      "url": "https://www.brickandbatten.com/moody-blue-paint/",
+      "reason": "The phrase can describe a general color mood and other named blue paints. Digital exterior designs are not counted as photographs documenting SW 6221 actually applied to a house."
+    },
+    {
+      "title": "Digital concepts, AI renderings and color simulations",
+      "url": "https://www.hackrea.net/paints/moody-blue-sherwin-williams-sw-6221/",
+      "reason": "Digital visualizations and generated exterior concepts are excluded. A realistic rendering is not evidence of a real painted house."
+    },
+    {
+      "title": "A proposed door color that was not selected",
+      "url": "https://homestagingbloomingtonil.wordpress.com/2013/08/12/paint-your-front-door-to-boost-curb-appeal/",
+      "reason": "Moody Blue was a considered alternative. The actual painted front door in this post is Exclusive Plum, so its completed photo is excluded."
+    },
+    {
+      "title": "Reddit front-door voting thread",
+      "url": "https://www.reddit.com/r/midcenturymodern/comments/1muo1lp",
+      "reason": "A suggestion or sample does not establish the final paint. The update identifies Peppery as the chosen door color, so this is not a completed Moody Blue application."
+    },
+    {
+      "title": "Repeated house image across reference sites",
+      "url": "https://plan-home.com/color/moody-blue-sw-6221",
+      "reason": "The Lauren Harrell house is repeated by PLAN Home, Paint Color Consultants and Pinterest. It is counted once, using the larger recovered copy. Other duplicate sizes and reposts were likewise removed."
+    },
+    {
+      "title": "Interiors, before photos and swatches",
+      "url": "https://paintcolorconsultants.com/database/sw-moody-blue",
+      "reason": "Most images in the database are interior rooms or furniture. Only the three relevant exterior photos are retained. Gold-house before photos, WaterColor interiors, color chips, rejected paint samples and manufacturer color schedules are outside the collection."
+    },
+    {
+      "title": "Social-source access limits",
+      "url": "https://www.instagram.com/p/BZzqsI7gkwq/",
+      "reason": "Some credited original social captions could not be recovered. An Instagram navigation attempt also stalled when the browser’s automatic permission check timed out. Those photos retain secondary-attribution labels; no original-owner confirmation is implied."
+    }
+  ],
+  "counts": {
+    "confirmed": 9,
+    "attributed": 2,
+    "accents": 13
+  },
+  "methodology": "Searched public text and image results using Moody Blue, Sherwin-Williams, SW 6221/SW6221, exterior, siding, house, painting, before/after, homeowner, door and shutter terms. Checked contractor portfolios, designer projects, homeowner discussions and updates, public social posts, Houzz paint answers, credited design publications, Pinterest reposts and manufacturer material. Followed project photos and source credits, visually inspected the saved images, and removed known duplicate compositions. Source-confirmed body color requires an original professional or homeowner statement; secondary body attributions have a separate category. Exterior accents have their own category, with primary versus secondary evidence explained in each group. Different angles remain, but image counts are not house counts. Some accent photos show the painted detail only at a distance or in shadow. No recoloring or generated imagery was introduced. This is a thorough public-web collection, not a guarantee of every photograph in existence: private, deleted, unindexed, login-restricted or inaccessible posts may contain more."
+}

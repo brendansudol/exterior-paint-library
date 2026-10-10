@@ -1,0 +1,18 @@
+DRIED THYME SW 6186 — REAL EXTERIOR PHOTO COLLECTION
+
+Open dried-thyme-exterior-photos.html with the photos folder beside it.
+The separate dried-thyme-portable-gallery.html embeds every image for one-file offline browsing.
+
+13 source-confirmed body-color photos across 5 houses.
+11 additional exterior photos with secondary body-color attribution.
+15 exterior accent photos; primary/secondary evidence is stated for each group.
+Main collection: 39 photos.
+Plus 1 unverified Craftsman lead, clearly labeled and outside the main count.
+Everything filter: 40 photos across 20 source groups. These are not 40 different houses.
+
+Some photographs are close details, shaded or obstructed views, seasonal views, or construction/painting stages. Read each caption to identify the exact painted surface and evidence strength. The main walls of the Omaha house are Clary Sage; the jpaints house has Escape Gray siding. Dried Thyme is an accent on these projects.
+
+All retained images were visually reviewed. Photos retain downloaded bytes; no recoloring or AI imagery was introduced. sources.json records source pages, original image URLs, credits, evidence, and SHA-256 checksums. Social media image URLs may expire; post links remain recorded. Known duplicate sizes, crops, and reposts count once.
+
+Research date: October 9, 2026. A thorough public-web collection, not a guarantee of every photo ever posted. More images may exist in private, deleted, unindexed or inaccessible sources. Additional source-confirmed but unrecovered-photo leads are linked in the gallery’s research notes.
+Photographs remain the property of their creators; no reuse license is granted.

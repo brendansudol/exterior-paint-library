@@ -1,0 +1,16 @@
+EVERGREEN FOG SW 9130 — REAL EXTERIOR PHOTO COLLECTION
+
+Open evergreen-fog-exterior-photos.html in a browser and keep the photos folder beside it.
+The separate evergreen-fog-portable-gallery.html embeds every photo and works as a single offline file.
+
+25 source-confirmed body-color images across 9 projects.
+5 additional attributed exterior images.
+22 door, shutter and enclosed-porch images.
+1 explicitly unverified lead, excluded from the real-photo counts.
+Total: 53 image assets, not 53 houses.
+
+The confirmed set includes one before/after panel; Evergreen Fog is the lower panel.
+The accent set includes two marked intermediate renovation stages.
+Photos are unaltered downloaded files. sources.json contains source pages, original image URLs, credits, evidence and SHA-256 hashes. Social image URLs may expire; source post links are retained.
+
+Research date: October 9, 2026. Thorough public-web search, not a guarantee of all images in existence. Access-limited leads and excluded renderings are recorded in the gallery notes. Photographs remain the property of their creators; no reuse license is granted.

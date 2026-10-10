@@ -1,0 +1,16 @@
+MOODY BLUE SW 6221 — REAL EXTERIOR PHOTO COLLECTION
+
+Open moody-blue-exterior-photos.html with the photos folder beside it.
+The separate moody-blue-portable-gallery.html embeds every image for one-file offline browsing.
+
+9 source-confirmed body-color photos across 3 houses.
+2 additional body-color photos with secondary attribution.
+13 exterior accent photos, with primary/secondary evidence stated for each project.
+Total: 24 photos across 15 house projects, not 24 houses.
+
+Some accent photos show the painted detail only at a distance, in shadow or at night. The WaterColor detail is mostly context for the house, with limited porch-ceiling area visible. All limitations are labeled in the gallery.
+
+Photos retain downloaded bytes; no recoloring or AI images were introduced. sources.json records source pages, original image URLs, credits, evidence and SHA-256 checksums. Social image URLs may expire; post links remain recorded.
+
+Research date: October 9, 2026. A thorough public-web collection, not a guarantee of every photo ever posted. More photographs may exist in private, deleted, unindexed or inaccessible posts.
+Photographs remain the property of their creators; no reuse license is granted.

@@ -8,6 +8,7 @@ A static, sourced visual library of real house exteriors in six Sherwin-Williams
 
 - Website: https://brendansudol.github.io/exterior-paint-library/
 - Six color collections, cross-color search and category filters
+- [House color studio](https://brendansudol.github.io/exterior-paint-library/house-preview/): six paints, three house views and 22 photo-sampled appearances, with independent comparison controls and an offline download
 - Full-size image viewer with keyboard navigation and source details
 - Browser-local saved-photo shortlist (no account, analytics or backend)
 - Original research galleries and source manifests under `research/`
@@ -33,6 +34,12 @@ python3 scripts/import_collections.py /absolute/path/to/research-outputs
 python3 scripts/build.py
 ```
 
+The standalone house viewer lives in `house-preview/`. Its assets are served directly; to rebuild its self-contained offline edition after changes, run:
+
+```sh
+python3 house-preview/build_portable.py
+```
+
 Original downloaded images remain byte-for-byte intact in `research/<color>/photos/`. Optimized WebP thumbnails live in `assets/thumbs/`.
 
 ## GitHub Pages
@@ -41,4 +48,4 @@ Publish from the `main` branch, `/(root)` folder. `.nojekyll` enables static-fil
 
 ## Sources and image rights
 
-This is an independent research collection, not a Sherwin-Williams publication. Swatches are approximate. Photos belong to their respective creators; this repository does not grant a license to reuse them. Source manifests preserve evidence and SHA-256 checksums. Photographs were not recolored for the site. Research was conducted October 8–9, 2026.
+This is an independent research collection, not a Sherwin-Williams publication. Swatches are approximate. Photos belong to their respective creators; this repository does not grant a license to reuse them. Source manifests preserve evidence and SHA-256 checksums. The research photographs were not recolored. The separate house color studio includes clearly labeled AI renovation concepts and deterministic recoloring based on sampled photo appearances. These are approximate, not calibrated paint predictions. The included house photographs and simulations are publicly accessible. Research was conducted October 8–9, 2026.

@@ -1,12 +1,6 @@
 'use strict';
-const colors = [
-  {slug:'acacia-haze', name:'Acacia Haze', code:'SW 9132', swatch:'#969c92'},
-  {slug:'evergreen-fog', name:'Evergreen Fog', code:'SW 9130', swatch:'#95978a'},
-  {slug:'retreat', name:'Retreat', code:'SW 6207', swatch:'#7a8076'},
-  {slug:'moody-blue', name:'Moody Blue', code:'SW 6221', swatch:'#7a9192'},
-  {slug:'dried-thyme', name:'Dried Thyme', code:'SW 6186', swatch:'#7b8070'},
-  {slug:'studio-blue-green', name:'Studio Blue Green', code:'SW 0047', swatch:'#6d817b'}
-];
+const colors = window.PAINT_PALETTE.colors;
+const lights = window.ColorModel.lighting;
 const views = {
   front: {name:'Front elevation', light:'Direct sun & porch shade'},
   angle: {name:'Front-left corner', light:'Porch, wood door & shaded side'},
@@ -21,19 +15,21 @@ let state = {
   a: bySlug[params.get('a')] ? params.get('a') : 'acacia-haze',
   b: bySlug[params.get('b')] ? params.get('b') : 'evergreen-fog',
   mode: params.get('mode') === 'compare' ? 'compare' : 'single',
+  lighting: lights[params.get('light')] ? params.get('light') : 'neutral',
   showOriginal: params.get('original') === '1'
 };
 if (state.a === 'original' && state.mode === 'single') {state.a = 'acacia-haze'; state.showOriginal = true;}
 const samples = window.PHOTO_SAMPLES.colors;
-const selectedSamples = {a:{},b:{}};
+// Old va/vb links select reference photos only; all house previews now use the baseline.
+const selectedReferences = {a:{},b:{}};
+const referencesOpen = {a:false,b:false};
 for (const pane of ['a','b']) {
-  const id=params.get('v'+pane);
-  if (id === 'ai' || samples[state[pane]]?.some(s=>s.id===id)) selectedSamples[pane][state[pane]]=id;
+  const id=params.get('r'+pane) || params.get('v'+pane);
+  if(samples[state[pane]]?.some(s=>s.id===id)) selectedReferences[pane][state[pane]]=id;
 }
-function sampleFor(pane,slug) {
+function referenceFor(pane,slug) {
   if(slug==='original') return null;
-  const id=selectedSamples[pane][slug];
-  return id==='ai' ? null : (samples[slug].find(s=>s.id===id) || samples[slug][0]);
+  return samples[slug].find(s=>s.id===selectedReferences[pane][slug]) || samples[slug][0];
 }
 const assetPath = path => window.HOUSE_ASSETS?.[path] || path;
 const imagePath = (view, slug) => {
@@ -54,38 +50,30 @@ function preload(path) {
 }
 const requestVersions = {a:0,b:0};
 async function showImage(pane, slug) {
-  const version = ++requestVersions[pane];
-  const view = state.view;
-  const sample=sampleFor(pane,slug);
-  const basicPath = imagePath(view,slug);
-  const photo = $(`photo-${pane}`);
-  const status = $(`load-${pane}`);
-  status.textContent = 'Loading preview…';
-  status.hidden = photo.dataset.view===view && photo.dataset.slug===slug && photo.dataset.sample===(sample?.id || 'ai');
+  const version=++requestVersions[pane],view=state.view,lighting=state.lighting;
+  const photo=$(`photo-${pane}`),status=$(`load-${pane}`);
+  status.textContent='Preparing preview…';
+  status.hidden=photo.dataset.view===view && photo.dataset.slug===slug && photo.dataset.lighting===lighting;
   try {
-    const path=sample ? await window.SampleRenderer.render(view,sample) : basicPath;
+    const path=slug==='original' ? imagePath(view,slug) : await window.SampleRenderer.render(view,bySlug[slug],lighting);
     await preload(path);
-    if (requestVersions[pane] !== version) return;
-    photo.src = path;
-    photo.alt = slug === 'original' ? `${views[view].name}, original photograph before renovation` : `${views[view].name} in ${caption(slug)}, with horizontal lap siding, white trim and a natural wood front door where visible`;
-    photo.dataset.slug = slug;
-    photo.dataset.view = view;
-    photo.dataset.sample=sample?.id || 'ai';
-    if(sample) photo.alt += `; observed appearance sampled from ${sample.label}`;
-    $(`download-${pane}`).href = path;
-    $(`download-${pane}`).download = `${view}-${slug}${sample ? '-'+sample.id+'.png' : '.webp'}`;
-    $(`badge-${pane}`).textContent = slug === 'original' ? 'Your original photo' : sample ? 'Photo-sampled appearance · approximate' : 'Earlier AI interpretation';
-    status.hidden = true;
+    if(requestVersions[pane]!==version)return;
+    photo.src=path;
+    photo.alt=slug==='original' ? `${views[view].name}, original photograph before renovation` : `${views[view].name} in ${caption(slug)}, ${lights[lighting].name}, with horizontal lap siding, white trim and a natural wood door where visible`;
+    photo.dataset.slug=slug;photo.dataset.view=view;photo.dataset.lighting=lighting;
+    $(`download-${pane}`).href=path;
+    $(`download-${pane}`).download=slug==='original' ? `${view}-original.webp` : `${view}-${slug}-${lighting}.png`;
+    $(`badge-${pane}`).textContent=slug==='original' ? 'Original photo · lighting unchanged' : `Consistent color preview · ${lights[lighting].name}`;
+    status.hidden=true;
   } catch {
-    if (requestVersions[pane] !== version) return;
-    status.textContent = 'This image could not load. Reload the page to try again.';
-    status.hidden = false;
+    if(requestVersions[pane]!==version)return;
+    status.textContent='This image could not load. Reload the page to try again.';status.hidden=false;
   }
 }
 function saveState() {
-  const hash = new URLSearchParams({view:state.view,a:state.a,b:state.b,mode:state.mode});
-  if (state.showOriginal) hash.set('original','1');
-  for(const pane of ['a','b']) if(state[pane]!=='original') hash.set('v'+pane,sampleFor(pane,state[pane])?.id || 'ai');
+  const hash=new URLSearchParams({view:state.view,a:state.a,b:state.b,mode:state.mode,light:state.lighting});
+  if(state.showOriginal)hash.set('original','1');
+  for(const pane of ['a','b'])if(state[pane]!=='original')hash.set('r'+pane,referenceFor(pane,state[pane]).id);
   history.replaceState(null,'','#'+hash.toString());
 }
 function render() {
@@ -110,39 +98,50 @@ function render() {
   document.querySelectorAll('[data-color]').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.color === state.a && !state.showOriginal)));
   document.querySelector('.palette-count').textContent = `${String(Math.max(0,colors.findIndex(c => c.slug === state.a))+1).padStart(2,'0')} / 06`;
   $('view-description').textContent = `${views[state.view].name} · ${views[state.view].light}`;
-  renderVariationPanel('a',slugA);
-  renderVariationPanel('b',state.b);
+  renderReferencePanel('a',slugA);
+  renderReferencePanel('b',state.b);
+  const onlyOriginal=slugA==='original' && (!comparing || state.b==='original');
+  document.querySelectorAll('[data-light]').forEach(button=>{button.setAttribute('aria-pressed',String(button.dataset.light===state.lighting));button.disabled=onlyOriginal;});
+  $('lighting-description').textContent=onlyOriginal ? 'Original photographs keep their captured lighting.' : lights[state.lighting].description;
+  $('lighting-sharing').textContent=comparing ? 'Same setting for both paints' : 'Same setting for every paint';
   showImage('a',slugA);
   if (comparing) showImage('b',state.b);
-  $('announcement').textContent = `${views[state.view].name}: ${caption(slugA)}, ${sampleFor('a',slugA)?.label || 'original interpretation'}${comparing ? ' compared with '+caption(state.b)+', '+(sampleFor('b',state.b)?.label || 'original interpretation') : ''}`;
+  $('announcement').textContent=`${views[state.view].name}: ${caption(slugA)}${comparing ? ' compared with '+caption(state.b) : ''}. ${lights[state.lighting].name}.`;
   saveState();
-  // Warm the selected angle so later color changes are immediate.
-  for (const color of [colors[0],original]) preload(imagePath(state.view,color.slug)).catch(() => {});
 }
-function cycleSample(pane,step) {
-  const slug=state[pane];if(slug==='original') return;
-  const list=samples[slug]; const current=sampleFor(pane,slug);
-  const index=current ? list.findIndex(s=>s.id===current.id) : -1;
-  selectedSamples[pane][slug]=list[(index+step+list.length)%list.length].id;
-  state.showOriginal=false; render();
+function chooseReference(pane,id) {
+  const slug=state[pane];if(slug==='original')return;
+  selectedReferences[pane][slug]=id;
+  referencesOpen[pane]=true;
+  renderReferencePanel(pane,slug);saveState();
+  $('announcement').textContent=`Reference photo: ${referenceFor(pane,slug).label}. House preview unchanged.`;
+}
+function cycleReference(pane,step) {
+  const slug=state[pane];if(slug==='original' || (pane==='a' && state.showOriginal && state.mode==='single'))return;
+  const list=samples[slug],index=list.findIndex(s=>s.id===referenceFor(pane,slug).id);
+  chooseReference(pane,list[(index+step+list.length)%list.length].id);
 }
 function el(tag,className,text) {const node=document.createElement(tag);if(className)node.className=className;if(text)node.textContent=text;return node;}
-function renderVariationPanel(pane,slug) {
-  const panel=$(`variation-${pane}`); panel.hidden=slug==='original';panel.replaceChildren();if(slug==='original')return;
-  const list=samples[slug],sample=sampleFor(pane,slug),index=list.findIndex(s=>s.id===sample?.id);
+function renderReferencePanel(pane,slug) {
+  const panel=$(`variation-${pane}`);panel.hidden=slug==='original';panel.replaceChildren();if(slug==='original')return;
+  const color=bySlug[slug],list=samples[slug],sample=referenceFor(pane,slug),index=list.findIndex(s=>s.id===sample.id);
+  const baseline=el('div','baseline-source');
+  const chip=el('span','sample-square');chip.style.background=color.swatch;
+  const caption=el('span','','One baseline · ');
+  const official=el('a','','Sherwin-Williams digital reference ↗');official.href=color.source;official.target='_blank';official.rel='noreferrer';
+  caption.append(official);baseline.append(chip,caption);panel.append(baseline);
+  const refs=el('details','reference-browser');refs.open=referencesOpen[pane];refs.addEventListener('toggle',()=>{referencesOpen[pane]=refs.open;});
+  refs.append(el('summary','',`Real-house references (${list.length})`));
+  refs.append(el('p','reference-note','Browse how this paint was photographed. These references do not change the house preview.'));
+  panel.append(refs);
   const row=el('div','variation-controls');
-  const label=el('label','variation-label','Appearance'); label.htmlFor=`sample-select-${pane}`;
-  const select=el('select','sample-select');select.id=`sample-select-${pane}`;select.setAttribute('aria-label',`Photo variation for ${pane==='a'?'first':'second'} image`);
+  const select=el('select','sample-select');select.setAttribute('aria-label',`Reference photo for ${pane==='a'?'first':'second'} image`);
   for(const [i,item] of list.entries())select.add(new Option(`${i+1}. ${item.label}${item.caution?' ⚠':''}`,item.id));
-  select.add(new Option('Earlier AI preview (not photo-sampled)','ai')); select.value=sample?.id || 'ai';
-  select.addEventListener('change',()=>{selectedSamples[pane][slug]=select.value;render();});
-  const previous=el('button','variation-arrow','←');previous.type='button';previous.setAttribute('aria-label',`Previous photo variation for ${pane==='a'?'first':'second'} image`);previous.addEventListener('click',()=>cycleSample(pane,-1));
-  const next=el('button','variation-arrow','→');next.type='button';next.setAttribute('aria-label',`Next photo variation for ${pane==='a'?'first':'second'} image`);next.addEventListener('click',()=>cycleSample(pane,1));
-  row.append(label,select,previous,next);panel.append(row);
-  const chips=el('div','sample-chips');chips.setAttribute('role','group');chips.setAttribute('aria-label',`Sampled appearances for ${bySlug[slug].name}`);
-  for(const [i,item] of list.entries()) {const button=el('button','sample-chip');button.type='button';button.setAttribute('aria-label',`${i+1}: ${item.label}`);button.setAttribute('aria-pressed',String(sample?.id===item.id));button.title=`${item.label} · sampled ${item.hex}`;const swatch=el('span','sample-chip-color');swatch.style.background=item.hex;button.append(swatch,el('span','',String(i+1)));button.addEventListener('click',()=>{selectedSamples[pane][slug]=item.id;render();});chips.append(button);}
-  chips.append(el('span','sample-count',sample ? `Photo sample ${index+1} of ${list.length}` : 'Earlier AI interpretation'));panel.append(chips);
-  if(!sample) {panel.append(el('p','sample-explanation','This is the earlier AI rendering guided by the published digital color. Choose a photo sample above to explore observed appearances.'));return;}
+  select.value=sample.id;select.addEventListener('change',()=>chooseReference(pane,select.value));
+  const previous=el('button','variation-arrow','←');previous.type='button';previous.setAttribute('aria-label',`Previous reference photo for ${pane==='a'?'first':'second'} image`);previous.addEventListener('click',()=>cycleReference(pane,-1));
+  const next=el('button','variation-arrow','→');next.type='button';next.setAttribute('aria-label',`Next reference photo for ${pane==='a'?'first':'second'} image`);next.addEventListener('click',()=>cycleReference(pane,1));
+  row.append(select,previous,next);refs.append(row);
+  refs.append(el('p','reference-note',`Reference ${index+1} of ${list.length} · ${sample.credit}`));
   const source=el('div','sample-source');
   const photoLink=el('button','reference-photo');photoLink.type='button';photoLink.setAttribute('aria-label',`Enlarge reference photograph: ${sample.title}`);
   const image=el('img');image.src=assetPath(sample.image);image.alt=`${sample.title}; the outlined area is the sampled body color`;image.loading='lazy';
@@ -160,7 +159,7 @@ function renderVariationPanel(pane,slug) {
   const measurement=el('div','sample-measurement');const swatch=el('span','sample-square');swatch.style.background=sample.hex;measurement.append(swatch,el('span','',`${sample.hex.toUpperCase()} · median of ${sample.samplePixels.toLocaleString()} pixels`));description.append(measurement);
   if(sample.caution) description.append(el('p','source-caution','One builder-attributed project; the visible trim conflicts with its written palette. Treat both views as uncertain evidence.'));
   const details=el('details','source-evidence');details.append(el('summary','','Attribution & sampling limits'),el('p','',sample.evidence),el('p','','This is the recorded photo color, including its lighting and camera treatment. No white-balance or exposure correction was applied. The outline marks the measured patch.'));
-  description.append(details);source.append(description);panel.append(source);
+  description.append(details);source.append(description);refs.append(source);
 }
 for (const [index,color] of colors.entries()) {
   const button = document.createElement('button');
@@ -183,15 +182,16 @@ function setMode(mode) {
   render();
 }
 document.querySelectorAll('[data-mode]').forEach(button => button.addEventListener('click',() => setMode(button.dataset.mode)));
+document.querySelectorAll('[data-light]').forEach(button=>button.addEventListener('click',()=>{state.lighting=button.dataset.light;render();}));
 $('original-toggle').addEventListener('click',() => {state.showOriginal = !state.showOriginal;render();});
-$('swap-colors').addEventListener('click',() => {[state.a,state.b] = [state.b,state.a];[selectedSamples.a,selectedSamples.b] = [selectedSamples.b,selectedSamples.a];render();});
+$('swap-colors').addEventListener('click',() => {[state.a,state.b] = [state.b,state.a];[selectedReferences.a,selectedReferences.b] = [selectedReferences.b,selectedReferences.a];render();});
 document.querySelectorAll('[data-zoom]').forEach(button => button.addEventListener('click',() => {
   const photo = $(`photo-${button.dataset.zoom}`);
   if (!photo.dataset.slug || !$(`load-${button.dataset.zoom}`).hidden) return;
   $('zoom-marker').hidden=true;
   $('zoom-image').src = photo.src;
   $('zoom-image').alt = photo.alt;
-  $('zoom-title').textContent = `${views[photo.dataset.view].name} · ${caption(photo.dataset.slug)}${photo.dataset.sample!=='ai' ? ' · '+samples[photo.dataset.slug].find(s=>s.id===photo.dataset.sample)?.label : ''}`;
+  $('zoom-title').textContent = `${views[photo.dataset.view].name} · ${caption(photo.dataset.slug)}${photo.dataset.slug==='original' ? '' : ' · '+lights[photo.dataset.lighting].name}`;
   $('zoom-dialog').showModal();
 }));
 $('close-zoom').addEventListener('click',() => $('zoom-dialog').close());
@@ -201,7 +201,7 @@ document.addEventListener('keydown',event => {
   let handled = true;
   if (/^[1-6]$/.test(event.key)) {state.a = colors[Number(event.key)-1].slug;state.showOriginal = false;}
   else if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {const current = Math.max(0,colors.findIndex(c => c.slug === state.a));state.a = colors[(current + (event.key === 'ArrowRight' ? 1 : 5))%6].slug;state.showOriginal = false;}
-  else if(event.key==='[' || event.key===']') {cycleSample('a',event.key===']' ? 1 : -1);event.preventDefault();return;}
+  else if(event.key==='[' || event.key===']') {cycleReference('a',event.key===']' ? 1 : -1);event.preventDefault();return;}
   else if (event.key.toLowerCase() === 'o') {state.mode = 'single';if (state.a === 'original') state.a = 'acacia-haze';state.showOriginal = !state.showOriginal;}
   else if (event.key.toLowerCase() === 'c') {setMode(state.mode === 'single' ? 'compare' : 'single');event.preventDefault();return;}
   else handled = false;

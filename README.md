@@ -8,7 +8,7 @@ A static, sourced visual library of real house exteriors in six Sherwin-Williams
 
 - Website: https://brendansudol.github.io/exterior-paint-library/
 - Six color collections, cross-color search and category filters
-- [House color studio](https://brendansudol.github.io/exterior-paint-library/house-preview/): six paints, three house views and 22 photo-sampled appearances, with independent comparison controls and an offline download
+- [House color studio](https://brendansudol.github.io/exterior-paint-library/house-preview/): six paints, three house views, shared illustrative lighting and one manufacturer-based color baseline per paint; includes real-house references and an offline download
 - Full-size image viewer with keyboard navigation and source details
 - Browser-local saved-photo shortlist (no account, analytics or backend)
 - Original research galleries and source manifests under `research/`
@@ -48,4 +48,4 @@ Publish from the `main` branch, `/(root)` folder. `.nojekyll` enables static-fil
 
 ## Sources and image rights
 
-This is an independent research collection, not a Sherwin-Williams publication. Swatches are approximate. Photos belong to their respective creators; this repository does not grant a license to reuse them. Source manifests preserve evidence and SHA-256 checksums. The research photographs were not recolored. The separate house color studio includes clearly labeled AI renovation concepts and deterministic recoloring based on sampled photo appearances. These are approximate, not calibrated paint predictions. The included house photographs and simulations are publicly accessible. Research was conducted October 8–9, 2026.
+This is an independent research collection, not a Sherwin-Williams publication. Swatches are approximate. Photos belong to their respective creators; this repository does not grant a license to reuse them. Source manifests preserve evidence and SHA-256 checksums. The research photographs were not recolored. The separate house color studio includes clearly labeled AI renovation concepts and deterministic recoloring based on manufacturer digital references and a shared neutral shading model. These are approximate, not calibrated paint predictions. The included house photographs and simulations are publicly accessible. Research was conducted October 8–9, 2026.

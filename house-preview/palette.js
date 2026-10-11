@@ -1,0 +1,89 @@
+window.PAINT_PALETTE = {
+  "colors": [
+    {
+      "slug": "acacia-haze",
+      "name": "Acacia Haze",
+      "code": "SW 9132",
+      "swatch": "#969c92",
+      "rgb": [
+        150,
+        156,
+        146
+      ],
+      "source": "https://www.sherwin-williams.com/en-us/color/color-family/green-paint-colors/sw9132-acacia-haze",
+      "sourceField": "ItemPage structured data / additionalProperty / RGB",
+      "verifiedOn": "2026-10-11"
+    },
+    {
+      "slug": "evergreen-fog",
+      "name": "Evergreen Fog",
+      "code": "SW 9130",
+      "swatch": "#95978a",
+      "rgb": [
+        149,
+        151,
+        138
+      ],
+      "source": "https://www.sherwin-williams.com/en-us/color/color-family/green-paint-colors/sw9130-evergreen-fog",
+      "sourceField": "ItemPage structured data / additionalProperty / RGB",
+      "verifiedOn": "2026-10-11"
+    },
+    {
+      "slug": "retreat",
+      "name": "Retreat",
+      "code": "SW 6207",
+      "swatch": "#7a8076",
+      "rgb": [
+        122,
+        128,
+        118
+      ],
+      "source": "https://www.sherwin-williams.com/en-us/color/color-family/green-paint-colors/sw6207-retreat",
+      "sourceField": "ItemPage structured data / additionalProperty / RGB",
+      "verifiedOn": "2026-10-11"
+    },
+    {
+      "slug": "moody-blue",
+      "name": "Moody Blue",
+      "code": "SW 6221",
+      "swatch": "#7a9192",
+      "rgb": [
+        122,
+        145,
+        146
+      ],
+      "source": "https://www.sherwin-williams.com/en-us/color/color-family/blue-paint-colors/sw6221-moody-blue",
+      "sourceField": "ItemPage structured data / additionalProperty / RGB",
+      "verifiedOn": "2026-10-11"
+    },
+    {
+      "slug": "dried-thyme",
+      "name": "Dried Thyme",
+      "code": "SW 6186",
+      "swatch": "#7b8070",
+      "rgb": [
+        123,
+        128,
+        112
+      ],
+      "source": "https://www.sherwin-williams.com/en-us/color/color-family/green-paint-colors/sw6186-dried-thyme",
+      "sourceField": "ItemPage structured data / additionalProperty / RGB",
+      "verifiedOn": "2026-10-11"
+    },
+    {
+      "slug": "studio-blue-green",
+      "name": "Studio Blue Green",
+      "code": "SW 0047",
+      "swatch": "#6d817b",
+      "rgb": [
+        109,
+        129,
+        123
+      ],
+      "source": "https://www.sherwin-williams.com/en-us/color/color-family/green-paint-colors/sw0047-studio-blue-green",
+      "sourceField": "ItemPage structured data / additionalProperty / RGB",
+      "verifiedOn": "2026-10-11"
+    }
+  ],
+  "note": "Manufacturer digital references, not spectral reflectance measurements. Verified from current official color pages."
+};

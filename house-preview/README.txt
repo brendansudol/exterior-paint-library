@@ -1,49 +1,57 @@
-YOUR HOUSE, IN COLOR — PHOTO-SAMPLED EDITION
+YOUR HOUSE, IN COLOR — CONSISTENT BASELINES
 
-Open the published page:
 https://brendansudol.github.io/exterior-paint-library/house-preview/
 
-Select any of the six paints, then use the appearance arrows, numbered swatches,
-or dropdown underneath the house to cycle through photo-sampled variations.
-Each sample includes its source photograph, a marked measurement patch,
-extracted median RGB, attribution and the source link. Click the source photo
-to enlarge it with the sampled patch still marked.
+Six manufacturer digital colors × three house views × three shared lighting
+settings. Every named paint has one baseline. Switching real-house references
+never changes the house preview. Compare mode uses the same lighting on both
+sides; choosing the same paint on both sides gives the same image.
 
-22 photo-sampled appearances across 3 house views (66 deterministic previews):
-4 each for Acacia Haze, Evergreen Fog, Retreat, Moody Blue and Dried Thyme.
-2 for Studio Blue Green from one builder-attributed project with a documented
-palette discrepancy; both are explicitly marked as uncertain evidence.
-21 distinct source photos. Earlier AI interpretations are still selectable.
+Neutral baseline is the default, including for old va/vb photo-sample links.
+Warm daylight and Cool shade are modest, illustrative siding-only adjustments.
+They retain existing shadows and do not simulate new weather or a time of day.
+The original-photo view is unchanged by the lighting control.
 
-Compare two can show two different paints OR two samples of the same paint.
-The URL remembers both selected samples. Swap exchanges paint and sample.
-Keyboard: 1-6 paints, left/right paints, [ and ] photo samples in the first pane,
-O original, C comparison mode.
+COLOR MODEL
+palette.json records RGB values and current official source URLs, verified
+October 11, 2026 from the color pages' ItemPage structured data. palette.js
+makes the data available without a network fetch in the offline edition.
 
-house-color-preview-portable.html embeds all 45 assets (house photos, source
-photos and masks), CSS, data and scripts. Its core viewer needs no network.
-External source links naturally require a connection. Approximately 17.5 MB.
+The model decodes the fixed renovation image into linear sRGB and reduces
+siding RGB to one luminance value per pixel, discarding its original hue.
+Luminance divided by the view's existing brighter-siding anchor gives a scalar
+shading field, reused across every paint. Manufacturer RGB is linearized,
+multiplied by this scalar, then encoded back to sRGB. Mask-edge blending
+preserves surrounding objects; all fully unmasked pixels stay identical.
 
-METHOD / LIMITS
-Source samples are median RGB values of manually checked body-color patches.
-They include lighting, exposure, white balance and any processing already in
-the photograph. They are not measured paint reflectances or calibrated colors.
-Lighting labels are visual interpretations, not measurements. Some reference
-surfaces are stucco, shingles or vertical siding.
+Warm daylight: +0.3 stop; RGB illuminant gains [1.035, 1, 0.96].
+Cool shade: -0.3 stop; gains [0.96, 1, 1.045].
+Each illuminant is normalized to unit luminance. These are chosen display
+adjustments, not measured illuminants or spectral paint reflectances.
+Neutral baseline: no additional tint or exposure adjustment.
 
-One completed AI renovation base is used for each view. Hand-traced siding
-masks exclude trim, windows, door, roof and foreground objects. Fine foliage,
-railing and tool boundaries are approximate. Linear RGB channel scaling maps
-sample RGB to a brighter ordinary siding anchor for that view, retaining the
-base shading and texture. Dark shade samples can make the whole preview dark;
-this is observed-color transfer, not relighting or prediction of actual paint.
-The masks and rendering hold all unmasked image pixels fixed.
+The same AI renovation base is used for all colors in each view. Masks are
+approximate at fine foliage, tools and railings. Physical paint, screen color
+management and real daylight may differ. Confirm finalists on painted siding.
 
-samples.json retains sources, RGB values and native pixel bounds.
-sample-renderer.js applies the deterministic color transfer in the browser.
-build_portable.py recreates the standalone HTML.
-Earlier AI inputs and prompts remain in generation-notes.json.
+REFERENCES
+21 photographs provide 22 annotated references. Their recorded sample colors
+are explanatory only and never enter the renderer. Studio Blue Green's two
+reference views have an unresolved palette discrepancy, labeled in the UI;
+its house preview uses the verified manufacturer RGB like the other paints.
 
-The house photographs and previews in this folder are publicly hosted in the
-exterior-paint-library GitHub repository. Only optimized web assets are included;
-the original full-resolution uploads and intermediate working files are omitted.
+KEYBOARD AND LINKS
+1–6 / left-right: paint. [ / ]: reference photo. O: original. C: compare.
+URL keys: view, a, b, mode, light, ra, rb, original. Legacy va/vb keys migrate
+to reference selections, with neutral lighting unless light is specified.
+
+OFFLINE
+python3 house-preview/build_portable.py (from repository root)
+The portable HTML embeds 30 assets: 3 fixed renovation bases, 3 originals,
+21 references and 3 masks. All renderer scripts, palettes and styles are
+embedded. Source links and library navigation require the internet.
+Earlier generated images remain in the repository as prior studies.
+
+PUBLICATION
+The optimized house photos and simulations are publicly hosted in this repo.
+Full-resolution personal uploads and intermediate working files are omitted.
